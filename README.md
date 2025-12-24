@@ -1,4 +1,4 @@
-hh# Enterprise LLMOps: E-Commerce Policy Compliance System
+# Enterprise LLMOps: E-Commerce Policy Compliance System
 
 A production-grade machine learning operations (MLOps) system that fine-tunes large language models for enterprise e-commerce customer operations. This project demonstrates end-to-end expertise in model training, evaluation, deployment, and operational excellence, achieving a **93% improvement in decision accuracy** and **79% reduction in policy violations** through advanced fine-tuning techniques.
 
@@ -6,7 +6,7 @@ A production-grade machine learning operations (MLOps) system that fine-tunes la
 
 This system addresses a critical business challenge: automating customer service decision-making while ensuring strict compliance with complex, multi-regional e-commerce policies. The solution leverages QLoRA (Quantized Low-Rank Adaptation) and Supervised Fine-Tuning (SFT) to transform a general-purpose language model into a specialized policy compliance assistant capable of handling returns, exchanges, fraud claims, warranty requests, and other customer operations with enterprise-grade accuracy and reliability.
 
-The architecture is designed for production deployment, featuring modular components, comprehensive evaluation frameworks, and rigorous reproducibility controls. The fine-tuned model processes customer service requests, evaluates policy compliance, generates structured JSON responses, and provides empathetic customer-facing communications—all while maintaining strict adherence to regulatory requirements across multiple jurisdictions.
+The architecture is designed for production deployment, featuring modular components, comprehensive evaluation frameworks, and rigorous reproducibility controls. The fine-tuned model processes customer service requests, evaluates policy compliance, generates structured JSON responses, and provides empathetic customer-facing communications, all while maintaining strict adherence to regulatory requirements across multiple jurisdictions.
 
 ## Key Achievements
 
@@ -15,7 +15,7 @@ The architecture is designed for production deployment, featuring modular compon
 The fine-tuning process delivered exceptional results across all critical dimensions:
 
 - **Decision Accuracy**: Improved from 36.24% to 69.82%, representing a 93% relative improvement. This translates to 84 additional correct decisions per 300-case evaluation set, nearly doubling the baseline performance.
-- **Policy Compliance**: Reduced violations from 28 to 6 cases (79% reduction), bringing the violation rate from 9.3% down to 2.0%—a level suitable for production deployment.
+- **Policy Compliance**: Reduced violations from 28 to 6 cases (79% reduction), bringing the violation rate from 9.3% down to 2.0%, which represents a level suitable for production deployment.
 - **Operational Efficiency**: Achieved a 72% reduction in output tokens (256 to 71.9 tokens per response) and a 9.4% improvement in inference latency (6.22s to 5.63s), resulting in lower API costs and faster customer response times.
 - **Training Efficiency**: Completed full fine-tuning in 31 minutes using 4-bit quantization, demonstrating cost-effective training on consumer-grade GPUs (RTX 4090/4080).
 
@@ -262,7 +262,7 @@ The combination of technical excellence, measurable results, and production read
 
 I'm a Senior Machine Learning, MLOps, AI, LLM & Cloud Engineer, and I'm proud to have designed, developed, and implemented this comprehensive enterprise LLMOps system. This project represents some of my best work in machine learning operations, showcasing advanced fine-tuning techniques, production-ready architecture, and measurable business impact.
 
-I've built this system from the ground up, applying my expertise in transformer architectures, parameter-efficient fine-tuning (QLoRA), and end-to-end MLOps practices. The results speak for themselves—achieving a 93% improvement in decision accuracy and a 79% reduction in policy violations demonstrates the power of well-executed machine learning engineering.
+I've built this system from the ground up, applying my expertise in transformer architectures, parameter-efficient fine-tuning (QLoRA), and end-to-end MLOps practices. The results speak for themselves: achieving a 93% improvement in decision accuracy and a 79% reduction in policy violations demonstrates the power of well-executed machine learning engineering.
 
 **My Key Expertise Areas:**
 - Machine Learning Engineering: Advanced model fine-tuning, optimization, and evaluation
