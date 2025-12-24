@@ -258,11 +258,13 @@ The combination of technical excellence, measurable results, and production read
 
 ## Author
 
-**Senior Machine Learning, MLOps, AI, LLM & Cloud Engineer**
+**Faizan-Ul Huda**
 
-This project was designed, developed, and implemented by a senior engineer specializing in machine learning operations, artificial intelligence systems, large language model fine-tuning, and cloud infrastructure. With expertise spanning the full ML lifecycle from research and development to production deployment, the author brings deep technical knowledge in transformer architectures, parameter-efficient fine-tuning techniques, MLOps best practices, and scalable cloud-based ML systems.
+I'm a Senior Machine Learning, MLOps, AI, LLM & Cloud Engineer, and I'm proud to have designed, developed, and implemented this comprehensive enterprise LLMOps system. This project represents some of my best work in machine learning operations, showcasing advanced fine-tuning techniques, production-ready architecture, and measurable business impact.
 
-**Key Expertise Areas:**
+I've built this system from the ground up, applying my expertise in transformer architectures, parameter-efficient fine-tuning (QLoRA), and end-to-end MLOps practices. The results speak for themselves—achieving a 93% improvement in decision accuracy and a 79% reduction in policy violations demonstrates the power of well-executed machine learning engineering.
+
+**My Key Expertise Areas:**
 - Machine Learning Engineering: Advanced model fine-tuning, optimization, and evaluation
 - MLOps: End-to-end ML pipeline development, reproducibility, and production deployment
 - AI Systems: LLM integration, prompt engineering, and AI-powered application development
