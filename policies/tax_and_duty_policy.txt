@@ -1,0 +1,299 @@
+TAX AND DUTY POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-010
+Version: 1.3
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs sales tax, value-added tax (VAT), customs duties, and 
+related tax and duty inquiries for domestic and international orders. It 
+clarifies our responsibilities versus customer responsibilities and provides 
+guidance for handling tax and duty-related customer questions.
+
+================================================================================
+2. DOMESTIC SALES TAX
+================================================================================
+
+2.1 Sales Tax Collection
+    We collect sales tax on orders shipped to addresses in jurisdictions
+    where we have tax nexus (physical presence or economic activity
+    thresholds). Sales tax is calculated based on:
+    - Shipping address (destination-based)
+    - Product taxability in that jurisdiction
+    - Current tax rates at time of purchase
+    
+    Sales tax is displayed at checkout before order completion.
+
+2.2 Tax-Exempt Purchases
+    Tax-exempt purchases may be available for:
+    - Qualified resellers (with valid resale certificate)
+    - Tax-exempt organizations (with valid exemption certificate)
+    - Certain product categories exempt in specific jurisdictions
+    
+    Tax exemption requires:
+    - Valid exemption certificate provided before purchase
+    - Certificate verification and approval
+    - Tax exemption applied to account or specific order
+
+2.3 Sales Tax Refunds
+    If sales tax incorrectly charged:
+    - Refund tax amount if error confirmed
+    - Process refund within 1-2 business days
+    - Tax refund appears in 5-10 business days
+    - If tax-exempt certificate provided post-purchase: Refund tax if
+      certificate valid and retroactively applicable
+
+2.4 Sales Tax Inquiries
+    Common customer questions:
+    - "Why was I charged tax?" - Explain nexus and tax requirements
+    - "Can I get tax refunded?" - Only if error or valid exemption
+    - "Tax amount seems wrong" - Verify calculation, explain if correct
+    - "Tax not shown at checkout" - Tax calculated at checkout, may vary
+      by shipping address
+
+================================================================================
+3. INTERNATIONAL VALUE-ADDED TAX (VAT)
+================================================================================
+
+3.1 VAT Collection
+    For orders shipped to VAT-applicable regions (EU, UK, etc.):
+    - VAT collected at checkout where we are required to collect
+    - VAT rate based on destination country
+    - VAT-inclusive pricing displayed where applicable
+    - VAT amount shown separately on order confirmation
+
+3.2 VAT-Exempt Purchases
+    VAT exemptions may apply for:
+    - Business customers with valid VAT number (B2B transactions)
+    - Certain product categories
+    - Specific country exemptions
+    
+    VAT exemption requires:
+    - Valid VAT registration number
+    - Business verification
+    - Exemption applied before order completion
+
+3.3 VAT Refunds
+    VAT refunds available if:
+    - VAT incorrectly charged due to our error
+    - Valid VAT exemption provided post-purchase (if retroactively
+      applicable)
+    - Order cancelled or returned (VAT refunded with order refund)
+    
+    VAT refunds process with order refunds (5-10 business days).
+
+================================================================================
+4. CUSTOMS DUTIES AND FEES
+================================================================================
+
+4.1 Customer Responsibility
+    For international orders, customer is responsible for:
+    - All customs duties and import taxes
+    - Customs clearance fees
+    - Any additional fees imposed by destination country customs
+    - Providing required customs documentation
+    
+    We are NOT responsible for customs duties or fees.
+
+4.2 Duty Estimation
+    - Estimated duties may be calculated at checkout (where available)
+    - Estimates are approximate, final amount determined by customs
+    - Actual duties may differ from estimate
+    - Customer responsible for actual duty amount, not estimate
+
+4.3 Duty Payment
+    - Duties typically paid to carrier or customs upon delivery
+    - Payment methods vary by country and carrier
+    - Customer must pay duties to receive package
+    - If duties not paid, package may be returned to sender
+
+4.4 Duty Disputes
+    If customer disputes duty charges:
+    - Duties are set by destination country customs, not us
+    - We cannot control or refund customs duties
+    - Customer should contact carrier or customs authority
+    - We can provide order documentation to assist customer
+
+================================================================================
+5. DUTY-FREE ORDERS
+================================================================================
+
+5.1 Duty-Free Thresholds
+    Some countries have duty-free thresholds:
+    - Orders below threshold: No duties (may still have taxes)
+    - Orders above threshold: Duties apply
+    - Thresholds vary by country and change periodically
+    - Thresholds apply to order value, not individual items
+
+5.2 Duty-Free Information
+    - Duty-free thresholds displayed at checkout where available
+    - Customer responsible for verifying current thresholds
+    - Thresholds subject to change without notice
+    - We provide estimates but cannot guarantee duty-free status
+
+================================================================================
+6. TAX AND DUTY CALCULATION ERRORS
+================================================================================
+
+6.1 Our Calculation Errors
+    If we incorrectly calculate tax or duty:
+    - Refund overcharge immediately
+    - Correct calculation for future orders
+    - Apologize for error
+    - Document for system correction
+
+6.2 Customer Calculation Disputes
+    If customer believes calculation incorrect:
+    - Verify calculation method and rates
+    - Explain calculation if correct
+    - If error confirmed: Correct and refund
+    - Provide tax/duty calculation breakdown if helpful
+
+6.3 System Errors
+    If system error causes tax/duty issue:
+    - Correct immediately
+    - Refund any overcharges
+    - Document error for technical team
+    - Monitor for pattern of errors
+
+================================================================================
+7. TAX DOCUMENTATION
+================================================================================
+
+7.1 Tax Invoices and Receipts
+    - Order confirmations include tax breakdown
+    - Tax invoices available in customer account
+    - Tax invoices show tax amount, rate, and jurisdiction
+    - Invoices suitable for business expense documentation
+
+7.2 International Tax Documentation
+    - Customs invoices provided with international shipments
+    - Documentation includes order value and contents
+    - Required for customs clearance
+    - Additional documentation available upon request
+
+7.3 Tax Certificate Requests
+    - Tax exemption certificates: Submit before purchase for approval
+    - Resale certificates: Submit for business account setup
+    - Tax documentation: Available in account or upon request
+
+================================================================================
+8. REGIONAL TAX VARIATIONS
+================================================================================
+
+8.1 United States
+    - Sales tax varies by state, county, city
+    - Tax collected where we have nexus
+    - Tax-exempt purchases with valid certificates
+    - Tax displayed at checkout
+
+8.2 Canada
+    - GST/HST collected based on province
+    - Tax rates vary by province
+    - Business customers may be tax-exempt with valid number
+
+8.3 European Union
+    - VAT collected at destination country rate
+    - VAT-inclusive pricing displayed
+    - B2B transactions may be VAT-exempt with valid VAT number
+    - VAT shown separately on invoices
+
+8.4 United Kingdom
+    - VAT collected at UK rate
+    - Post-Brexit customs duties may apply
+    - VAT and duties displayed separately where applicable
+
+8.5 Australia
+    - GST collected on orders over threshold
+    - GST rate: 10%
+    - Business customers may be GST-exempt
+
+================================================================================
+9. TAX-RELATED REFUNDS AND ADJUSTMENTS
+================================================================================
+
+9.1 Order Cancellations
+    - Tax refunded with order cancellation
+    - Tax refund processes with order refund (5-10 business days)
+    - Full tax amount refunded for cancelled orders
+
+9.2 Returns and Refunds
+    - Tax refunded with order refund
+    - Tax refund processes automatically with return refund
+    - Partial returns: Tax refunded proportionally
+
+9.3 Price Adjustments
+    - Tax recalculated if order price adjusted
+    - Tax difference refunded or charged as applicable
+    - Tax adjustment processes with price adjustment
+
+================================================================================
+10. TAX EXEMPTION PROCESS
+================================================================================
+
+10.1 Exemption Application
+    To apply for tax exemption:
+    - Submit valid exemption certificate
+    - Provide business information if applicable
+    - Wait for verification and approval
+    - Exemption applied to account or specific order
+
+10.2 Exemption Verification
+    - Certificates verified for validity and applicability
+    - Business information verified for business exemptions
+    - Verification typically 2-3 business days
+    - Customer notified of approval or denial
+
+10.3 Exemption Maintenance
+    - Exemptions may expire and require renewal
+    - Customer notified before exemption expiration
+    - Update exemption certificates as needed
+    - Exemptions subject to periodic review
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Escalate tax and duty issues to supervisor or specialist for:
+- Complex tax exemption requests
+- High-value tax disputes
+- International duty disputes requiring documentation
+- Tax calculation errors affecting multiple customers
+- Regional tax law questions
+- Business tax exemption verifications
+- Customs duty disputes requiring carrier coordination
+- Tax refund requests outside standard policy
+
+================================================================================
+12. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about taxes and duties:
+- Clearly explain tax/duty responsibility (ours vs. customer's)
+- Provide tax/duty calculation breakdown when helpful
+- Explain why taxes/duties apply or don't apply
+- Set expectations for refund processing timelines
+- Provide documentation or resources when available
+- Show empathy for tax/duty frustrations (especially international)
+
+================================================================================
+13. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All tax and duty interactions must include:
+- Order number and tax/duty amounts
+- Tax/duty calculation method or explanation
+- Refund or adjustment details if applicable
+- Exemption certificate information if discussed
+- Regional tax information referenced
+- Resolution actions taken
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

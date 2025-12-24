@@ -1,0 +1,233 @@
+{
+  "baseline_info": {
+    "baseline_version": "baseline_v1",
+    "base_model": "microsoft/Phi-3-mini-4k-instruct",
+    "policy_version": "policy_v1",
+    "eval_set_hash": "0e0427dcac8e877d",
+    "total_examples": 300
+  },
+  "decision_accuracy": {
+    "overall_accuracy": 36.24,
+    "correct_decisions": 108,
+    "decision_attempts": 298,
+    "by_issue_type": {
+      "size_fit": 53.85,
+      "payment_issue": 0.0,
+      "warranty_claim": 23.53,
+      "subscription_membership": 0.0,
+      "shipping_delay": 50.0,
+      "preorder_delay": 33.33,
+      "tax_duty_question": 78.95,
+      "fraud_chargeback": 6.25,
+      "order_modification": 52.38,
+      "loyalty_points": 55.56,
+      "digital_product_issue": 7.14,
+      "damaged_item": 0.0,
+      "price_match": 43.75,
+      "address_issue": 22.22,
+      "promotion_pricing": 53.85,
+      "compliance_restriction": 60.0,
+      "store_pickup": 57.14,
+      "missing_item": 26.32,
+      "return_exchange": 56.25
+    },
+    "by_region": {
+      "US": 43.33,
+      "UK": 35.38,
+      "EU": 35.59,
+      "AU": 34.48,
+      "CA": 32.14
+    },
+    "by_customer_tier": {
+      "Guest": 36.67,
+      "Employee": 29.41,
+      "Member": 50.0,
+      "VIP": 31.25
+    }
+  },
+  "policy_compliance": {
+    "violations": 28,
+    "compliant": 270,
+    "ambiguous": 2
+  },
+  "json_validity": {
+    "valid_json_rate": 99.33,
+    "valid": 298,
+    "invalid": 2,
+    "missing_fields": {},
+    "invalid_types": {}
+  },
+  "language_compliance": {
+    "language_violations": 0
+  },
+  "operational_metrics": {
+    "avg_latency_ms": 6218.36,
+    "p50_latency_ms": 6183.6,
+    "p95_latency_ms": 6788.68,
+    "avg_input_tokens": 1183.0,
+    "avg_output_tokens": 256.0,
+    "total_tokens": 431715
+  },
+  "violation_details": [
+    {
+      "example_idx": 0,
+      "issue_type": "size_fit",
+      "violation_type": "violation",
+      "details": "Return approved outside window",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 8,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 18,
+      "issue_type": "size_fit",
+      "violation_type": "violation",
+      "details": "Return approved outside window",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 29,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Normal wear incorrectly approved",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 37,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Normal wear incorrectly approved",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 59,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Normal wear incorrectly approved",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 64,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Warranty approved outside coverage",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 94,
+      "issue_type": "promotion_pricing",
+      "violation_type": "violation",
+      "details": "Discount stacking not allowed",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 98,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Defective items must be eligible",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Eligible"
+    },
+    {
+      "example_idx": 103,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 130,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 132,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Warranty approved outside coverage",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 139,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Warranty approved outside coverage",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 140,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 150,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 155,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Defective items must be eligible",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Eligible"
+    },
+    {
+      "example_idx": 167,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "Fraud approved without verification",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 169,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Escalate"
+    },
+    {
+      "example_idx": 173,
+      "issue_type": "warranty_claim",
+      "violation_type": "violation",
+      "details": "Warranty approved outside coverage",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 184,
+      "issue_type": "fraud_chargeback",
+      "violation_type": "violation",
+      "details": "High-value fraud must escalate",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Escalate"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+SHIPPING AND DELIVERY POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-002
+Version: 1.8
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy establishes standards for shipping, delivery, and handling of 
+delivery-related customer inquiries. It covers standard shipping, expedited 
+options, delivery delays, address issues, and compensation for service failures.
+
+================================================================================
+2. SHIPPING OPTIONS AND TIMEFRAMES
+================================================================================
+
+2.1 Standard Shipping
+    - Processing Time: 1-2 business days after order confirmation
+    - Delivery Time: 5-7 business days from shipment
+    - Available to: All regions
+    - Tracking: Provided via email upon shipment
+
+2.2 Expedited Shipping
+    - Processing Time: 1 business day after order confirmation
+    - Delivery Time: 2-3 business days from shipment
+    - Available to: Select regions (check regional availability)
+    - Additional fees apply
+
+2.3 Express Shipping
+    - Processing Time: Same day (orders placed before 2 PM local time)
+    - Delivery Time: 1-2 business days from shipment
+    - Available to: Major metropolitan areas only
+    - Additional fees apply
+
+2.4 International Shipping
+    - Processing Time: 2-3 business days after order confirmation
+    - Delivery Time: 10-21 business days depending on destination
+    - Customs and duties: Customer responsibility
+    - Tracking: Provided where available
+
+================================================================================
+3. DELIVERY DELAYS AND COMPENSATION
+================================================================================
+
+3.1 Delay Thresholds
+    Delivery delays are categorized as follows:
+    
+    - Minor Delay: 1-3 business days beyond estimated delivery
+      Action: Monitor and provide tracking updates
+      Compensation: None (within carrier variance)
+    
+    - Moderate Delay: 4-6 business days beyond estimated delivery
+      Action: Proactive customer communication, expedited resolution
+      Compensation: Consider shipping fee refund or discount code
+    
+    - Significant Delay: 7+ business days beyond estimated delivery
+      Action: Immediate escalation, full investigation
+      Compensation: Shipping fee refund, discount code, or expedited 
+                    replacement at no cost
+
+3.2 Weather-Related Delays
+    Delays caused by severe weather conditions, natural disasters, or 
+    carrier-acknowledged weather events:
+    - Customer will be notified of delay
+    - No compensation required for weather-related delays
+    - Delivery will proceed once conditions permit
+    - If delay exceeds 14 days, customer may request cancellation and 
+      full refund
+
+3.3 Carrier Issues
+    Delays caused by carrier errors, lost packages, or carrier system failures:
+    - Immediate investigation with carrier
+    - Customer notification within 24 hours
+    - Compensation per Section 3.1 based on delay severity
+    - Replacement shipment expedited at no cost if package confirmed lost
+
+3.4 Our Error Delays
+    Delays caused by our fulfillment errors, inventory issues, or processing 
+    mistakes:
+    - Immediate acknowledgment and apology
+    - Expedited shipment at no additional cost
+    - Full shipping fee refund
+    - Discount code for inconvenience (minimum 10% off next purchase)
+
+================================================================================
+4. ADDRESS ISSUES
+================================================================================
+
+4.1 Incorrect Address Provided by Customer
+    If customer provided incorrect address:
+    - Customer responsible for any additional shipping costs
+    - Package may be returned to sender if undeliverable
+    - Customer may request reshipment to correct address (additional shipping
+      fees apply)
+    - No compensation provided
+
+4.2 Address Mismatch (System Error)
+    If address error is due to our system or processing error:
+    - We cover all reshipment costs
+    - Expedited shipping provided at no cost
+    - Full refund of original shipping if package is lost or significantly
+      delayed due to error
+
+4.3 Carrier Address Exception
+    If carrier cannot deliver due to address issues (not customer error):
+    - Customer will be notified via email and/or phone
+    - Customer has 7 days to provide corrected address
+    - After 7 days, package may be returned to sender
+    - Reshipment fees may apply depending on circumstances
+
+4.4 Address Updates After Shipment
+    Address changes requested after order has shipped:
+    - Cannot be guaranteed
+    - Customer may contact carrier directly if within carrier's redirect window
+    - We will attempt to assist but cannot guarantee success
+    - No compensation if address change fails
+
+================================================================================
+5. MISSING OR DAMAGED IN TRANSIT ITEMS
+================================================================================
+
+5.1 Missing Items
+    If package is marked delivered but customer reports not received:
+    - Verify delivery address matches order
+    - Check carrier delivery confirmation and signature (if applicable)
+    - If confirmed delivered to correct address: Escalate to specialized team
+    - If delivery cannot be confirmed: Process replacement or refund
+    
+    Investigation timeline: 3-5 business days
+    Resolution: Replacement shipped or full refund issued
+
+5.2 Damaged in Transit
+    Items damaged during shipping:
+    - Customer must report within 48 hours of delivery
+    - Photographs of damage and packaging required
+    - Immediate replacement or full refund
+    - Return shipping label provided for damaged item
+    - Expedited replacement at no cost
+
+5.3 Package Not Received (Lost in Transit)
+    If package tracking shows no movement for 7+ business days:
+    - Initiate carrier investigation
+    - Customer notification within 24 hours
+    - If carrier confirms loss: Immediate replacement or full refund
+    - If carrier investigation pending: Provide timeline and keep customer
+      informed every 2-3 business days
+
+================================================================================
+6. TRACKING AND NOTIFICATIONS
+================================================================================
+
+6.1 Tracking Information
+    - Tracking number provided via email upon shipment
+    - Customers can track orders through our website or carrier website
+    - Automated email updates at key delivery milestones
+    - SMS notifications available (opt-in required)
+
+6.2 Delivery Confirmation
+    - Signature required for orders over $200 (select regions)
+    - Photo proof of delivery available in select areas
+    - Delivery confirmation email sent upon delivery
+
+================================================================================
+7. INTERNATIONAL SHIPPING AND CUSTOMS
+================================================================================
+
+7.1 Customs and Duties
+    - Customer is responsible for all customs fees, duties, and taxes
+    - Estimated duties may be calculated at checkout (where available)
+    - Final duty amount determined by destination country customs
+    - We are not responsible for customs delays or additional fees
+
+7.2 International Delivery Delays
+    International shipping delays due to customs:
+    - Customer will be notified if we receive customs hold notification
+    - Customer responsible for providing required customs documentation
+    - No compensation for customs-related delays
+    - If package held more than 30 days, customer may request cancellation
+
+================================================================================
+8. STORE PICKUP ORDERS
+================================================================================
+
+8.1 Pickup Window
+    - Orders available for pickup within 2-4 hours of order confirmation
+      (during store hours)
+    - Customer has 7 calendar days to pick up order
+    - After 7 days, order may be cancelled and refunded
+
+8.2 Pickup Issues
+    - If item not available at selected store: Customer notified, option to
+      wait for restock, transfer to another store, or full refund
+    - If pickup window expired: Customer may request extension (one-time,
+      up to 3 additional days) or cancellation with full refund
+    - Store stock issues: Immediate notification, alternative options provided
+
+================================================================================
+9. PREORDER DELAYS
+================================================================================
+
+9.1 Preorder Estimated Dates
+    - Estimated delivery dates provided at time of preorder
+    - Dates are estimates and subject to supplier/manufacturer timelines
+    - Customers notified of any changes to estimated delivery dates
+
+9.2 Preorder Delay Compensation
+    - Delays up to 7 days: No compensation (within normal variance)
+    - Delays 8-14 days: 10% discount code for inconvenience
+    - Delays 15-30 days: 15% discount code or option to cancel with full refund
+    - Delays over 30 days: 20% discount code or immediate cancellation with
+      full refund upon request
+
+9.3 Supplier Issues
+    If preorder delay is due to supplier/manufacturer issues:
+    - Transparent communication to customers
+    - Regular updates (minimum weekly) until new delivery date confirmed
+    - Compensation per Section 9.2
+    - Option to cancel at any time with full refund
+
+================================================================================
+10. ESCALATION CRITERIA
+================================================================================
+
+Escalate shipping and delivery issues to supervisor or specialized team for:
+- Delays exceeding 14 business days
+- Multiple packages lost for same customer
+- High-value orders ($500+) with delivery issues
+- International orders with customs complications
+- Suspected fraudulent delivery claims
+- Carrier disputes requiring legal or contract review
+- Weather-related delays exceeding 14 days
+
+================================================================================
+11. COMPENSATION GUIDELINES
+================================================================================
+
+11.1 Shipping Fee Refunds
+    - Full refund of shipping fees for delays 7+ days (our error)
+    - Partial refund consideration for delays 4-6 days
+    - No refund for delays 1-3 days (carrier variance)
+
+11.2 Discount Codes
+    - 10% off: Moderate delays (4-6 days) or minor inconveniences
+    - 15% off: Significant delays (7-14 days)
+    - 20% off: Extended delays (15+ days) or multiple issues
+
+11.3 Expedited Replacement
+    - Provided at no cost for: Lost packages, damaged items, our errors
+    - Next-day or 2-day shipping when available
+    - Standard shipping if expedited not available in region
+
+================================================================================
+12. DOCUMENTATION AND COMPLIANCE
+================================================================================
+
+All shipping and delivery interactions must be:
+- Documented with order number and tracking information
+- Tagged with appropriate issue type and resolution code
+- Retained per regional data retention requirements
+- Linked to customer account for pattern analysis
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

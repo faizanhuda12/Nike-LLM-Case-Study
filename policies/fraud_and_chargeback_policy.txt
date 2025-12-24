@@ -1,0 +1,332 @@
+FRAUD AND CHARGEBACK POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-005
+Version: 1.4
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy establishes procedures for handling fraud claims, unauthorized 
+transactions, chargebacks, and identity verification. All customer service 
+representatives must follow strict protocols to protect both customers and the 
+company from fraudulent activity while providing appropriate support to 
+legitimate fraud victims.
+
+================================================================================
+2. UNAUTHORIZED TRANSACTION CLAIMS
+================================================================================
+
+2.1 Initial Response
+    When customer reports unauthorized transaction:
+    - Take claim seriously and show empathy
+    - Gather initial information: transaction date, amount, order number
+    - Verify customer identity before discussing account details
+    - Do NOT dismiss claim or assume customer error
+    - Document all information immediately
+
+2.2 Identity Verification Required
+    Before processing any fraud-related request, customer MUST verify identity:
+    
+    Required verification methods (at least TWO of the following):
+    a) Account password or security question answer
+    b) Last 4 digits of payment method used
+    c) Billing address verification
+    d) Email verification (click link sent to account email)
+    e) Phone verification (call to registered phone number)
+    f) Government-issued ID (for high-value claims)
+    
+    If customer cannot verify identity, escalate to fraud specialist team.
+    Do NOT process refunds or make account changes without verification.
+
+2.3 Investigation Process
+    Upon verified fraud claim:
+    - Immediately flag account for security review
+    - Freeze account if multiple suspicious activities detected
+    - Review recent account activity and order history
+    - Check for patterns indicating account compromise
+    - Document all findings in fraud case management system
+
+2.4 Immediate Actions
+    For confirmed unauthorized transactions:
+    - Cancel unauthorized orders if not yet shipped
+    - Issue full refund for unauthorized charges
+    - Recommend customer contact bank/card issuer to report fraud
+    - Advise customer to change account password immediately
+    - Suggest customer monitor credit reports if identity theft suspected
+
+================================================================================
+3. CHARGEBACK PROCESS
+================================================================================
+
+3.1 Chargeback Definition
+    A chargeback occurs when a customer disputes a charge directly with their
+    bank or card issuer. The bank reverses the payment and we are notified.
+    Chargebacks can occur for:
+    - Unauthorized transaction claims
+    - Product not received claims
+    - Product not as described claims
+    - Duplicate charge claims
+    - Refund not received claims
+
+3.2 Chargeback Notification
+    When we receive chargeback notification:
+    - Review order details and customer interaction history
+    - Check if issue was previously reported and resolved
+    - Gather evidence: order confirmation, shipping confirmation, delivery
+      confirmation, customer communications
+    - Determine if chargeback is legitimate or can be contested
+
+3.3 Chargeback Response
+    We have limited time (typically 7-14 days) to respond to chargeback:
+    
+    If chargeback is legitimate (we made an error):
+    - Accept chargeback
+    - Do not contest
+    - Document lesson learned
+    
+    If chargeback appears fraudulent or incorrect:
+    - Contest with evidence (order details, delivery confirmation, etc.)
+    - Provide all relevant documentation
+    - Submit response within deadline
+    - Monitor outcome
+
+3.4 Customer Communication During Chargeback
+    - If customer contacts us about chargeback they initiated:
+      - Acknowledge we received chargeback notification
+      - Explain we are reviewing the case
+      - If we have evidence order was legitimate, explain our position
+      - Offer to resolve directly if customer withdraws chargeback
+      - Maintain professional tone even if chargeback seems unwarranted
+
+================================================================================
+4. ACCOUNT COMPROMISE INDICATORS
+================================================================================
+
+4.1 Signs of Account Compromise
+    Watch for these indicators:
+    - Multiple orders from same account in short timeframe
+    - Shipping addresses different from billing address (especially
+      international addresses)
+    - Payment methods added recently with immediate high-value orders
+    - Account email or password changed recently
+    - Customer reports not receiving order confirmation emails
+    - Unusual order patterns (bulk quantities, high-value items)
+    - Orders shipping to addresses not in customer history
+
+4.2 Response to Compromise Indicators
+    If account compromise suspected:
+    - Immediately flag account for security review
+    - Freeze account to prevent further unauthorized activity
+    - Contact customer via verified contact methods (phone, verified email)
+    - Verify recent account activity with customer
+    - If compromise confirmed, reset password and security settings
+    - Review and cancel suspicious orders if possible
+
+================================================================================
+5. IDENTITY VERIFICATION PROCEDURES
+================================================================================
+
+5.1 Standard Verification (Low-Risk Claims)
+    For standard fraud claims (under $200, single transaction):
+    - Verify at least TWO identity factors (Section 2.2)
+    - Confirm customer can access account email
+    - Verify billing address matches account
+    - If verified, process refund and security recommendations
+
+5.2 Enhanced Verification (Medium-Risk Claims)
+    For medium-risk claims ($200-$500, multiple transactions, suspicious
+    patterns):
+    - Verify at least THREE identity factors
+    - May require phone call to registered number
+    - Review account history for patterns
+    - May require supervisor approval before processing refund
+
+5.3 High-Risk Verification (High-Value or Complex Claims)
+    For high-risk claims (over $500, account compromise, identity theft
+    indicators):
+    - Escalate to fraud specialist team immediately
+    - Do NOT process refunds without specialist approval
+    - Require multiple verification methods including government ID
+    - May require fraud investigation before resolution
+    - Coordinate with legal/security teams if needed
+
+================================================================================
+6. FRAUD PREVENTION MEASURES
+================================================================================
+
+6.1 Proactive Monitoring
+    Our systems monitor for:
+    - Unusual purchase patterns
+    - Rapid account changes (email, password, address)
+    - High-value orders from new accounts
+    - International shipping to high-risk regions
+    - Payment method mismatches
+    - Velocity checks (too many orders too quickly)
+
+6.2 Customer Education
+    When discussing fraud with customers, provide security recommendations:
+    - Use strong, unique passwords
+    - Enable two-factor authentication if available
+    - Monitor account activity regularly
+    - Report suspicious activity immediately
+    - Never share account credentials
+    - Be cautious of phishing attempts
+
+6.3 Account Security Features
+    Recommend customers:
+    - Update passwords regularly
+    - Use payment methods with fraud protection
+    - Monitor bank/card statements
+    - Set up account activity alerts if available
+    - Keep contact information current
+
+================================================================================
+7. REFUND PROCESSING FOR FRAUD CLAIMS
+================================================================================
+
+7.1 Verified Fraud Claims
+    For verified unauthorized transactions:
+    - Process full refund immediately (within 1 business day)
+    - Refund to original payment method
+    - If original payment method compromised, issue store credit or check
+    - Provide refund confirmation
+    - No questions asked for verified fraud (customer is victim)
+
+7.2 Unverified or Suspicious Claims
+    If fraud claim cannot be verified or appears suspicious:
+    - Do NOT process refund immediately
+    - Escalate to fraud specialist for investigation
+    - May require additional documentation
+    - Customer may need to file police report for high-value claims
+    - Resolution timeline may be extended for investigation
+
+7.3 Partial Fraud Claims
+    If only some transactions on account are unauthorized:
+    - Refund only unauthorized transactions
+    - Verify which transactions customer authorized
+    - Process refunds for confirmed unauthorized charges only
+    - Maintain record of authorized vs. unauthorized transactions
+
+================================================================================
+8. CHARGEBACK PREVENTION
+================================================================================
+
+8.1 Proactive Communication
+    To prevent chargebacks:
+    - Clear order confirmations with details
+    - Shipping notifications with tracking
+    - Delivery confirmations
+    - Easy return/refund process
+    - Responsive customer service
+
+8.2 Chargeback Warning Signs
+    Watch for customers who:
+    - Threaten chargeback before attempting resolution
+    - Refuse to work with customer service
+    - Make unreasonable demands
+    - Have history of chargebacks
+    - Report issues only after delivery confirmed
+
+8.3 Resolving Before Chargeback
+    If customer threatens chargeback:
+    - Acknowledge their concern
+    - Offer to resolve issue directly
+    - Explain chargeback process and timeline
+    - Provide clear resolution path
+    - Document all communication attempts
+
+================================================================================
+9. FRAUD PATTERN ANALYSIS
+================================================================================
+
+9.1 Documenting Fraud Cases
+    All fraud cases must be documented with:
+    - Customer account information
+    - Transaction details
+    - Verification methods used
+    - Resolution actions taken
+    - Patterns or indicators identified
+    - Outcome (refunded, denied, escalated)
+
+9.2 Pattern Recognition
+    Report patterns to fraud team:
+    - Similar fraud claims from different accounts
+    - Geographic patterns
+    - Product-specific fraud
+    - Payment method patterns
+    - Shipping address patterns
+
+================================================================================
+10. LEGAL AND COMPLIANCE
+================================================================================
+
+10.1 Regulatory Requirements
+    Fraud handling must comply with:
+    - PCI-DSS requirements for payment data
+    - Regional data protection regulations (GDPR, CCPA, etc.)
+    - Banking and financial regulations
+    - Consumer protection laws
+
+10.2 Law Enforcement Cooperation
+    For significant fraud cases:
+    - May require cooperation with law enforcement
+    - Preserve evidence per legal requirements
+    - Coordinate with legal team before sharing information
+    - Follow subpoena and legal request procedures
+
+10.3 Customer Privacy
+    - Protect customer information during fraud investigations
+    - Only share information necessary for investigation
+    - Follow privacy policy and data protection requirements
+    - Secure storage of fraud case documentation
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Immediately escalate to fraud specialist team for:
+- Unauthorized transaction claims over $500
+- Suspected account compromise
+- Multiple fraud claims from same customer
+- Identity theft indicators
+- Chargeback disputes requiring evidence gathering
+- High-value chargebacks
+- Suspected organized fraud
+- Law enforcement involvement
+- Complex verification scenarios
+- Any fraud case where standard procedures don't apply
+
+================================================================================
+12. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about fraud:
+- Show empathy (customer may be victim)
+- Be clear about verification requirements
+- Explain process and timelines
+- Provide security recommendations
+- Maintain professional tone
+- Never accuse customer of fraud directly
+- Focus on resolution, not blame
+
+================================================================================
+13. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All fraud-related interactions must include:
+- Detailed case notes
+- Verification methods used and results
+- Transaction details and amounts
+- Customer communication history
+- Resolution actions taken
+- Escalation notes if applicable
+- Outcome and follow-up requirements
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

@@ -1,0 +1,117 @@
+# ========================================================================
+# Baseline Evaluation Run - Complete Log
+# Date: December 23, 2025
+# Model: Qwen/Qwen2.5-1.5B-Instruct (Untuned)
+# Status: COMPLETED SUCCESSFULLY
+# ========================================================================
+
+# Command executed:
+PYTHONUNBUFFERED=1 python baseline_eval/run_baseline.py \
+    --dataset baseline_eval/data/baseline_eval_dataset_300.jsonl \
+    --max-examples 300 \
+    --model-name Qwen/Qwen2.5-1.5B-Instruct \
+    --device cuda \
+    --cache-dir /workspace/hf_cache \
+    --output-dir baseline_eval/results \
+    --baseline-version baseline_v1 \
+    --use-kv-cache \
+    --max-new-tokens 256 \
+    2>&1 | tee run_log.txt
+
+# ========================================================================
+# EVALUATION LOG OUTPUT
+# ========================================================================
+
+/usr/local/lib/python3.11/dist-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+
+  warnings.warn(
+
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loaded 300 examples for evaluation
+
+Eval set hash: 0e0427dcac8e877d
+
+Starting evaluation...
+
+Progress: 10/300 examples processed
+Progress: 20/300 examples processed
+Progress: 30/300 examples processed
+Progress: 40/300 examples processed
+Progress: 50/300 examples processed
+Progress: 60/300 examples processed
+Progress: 70/300 examples processed
+Progress: 80/300 examples processed
+Progress: 90/300 examples processed
+Progress: 100/300 examples processed
+Progress: 110/300 examples processed
+Progress: 120/300 examples processed
+Progress: 130/300 examples processed
+Progress: 140/300 examples processed
+Progress: 150/300 examples processed
+Progress: 160/300 examples processed
+Progress: 170/300 examples processed
+Progress: 180/300 examples processed
+Progress: 190/300 examples processed
+Progress: 200/300 examples processed
+Progress: 210/300 examples processed
+Progress: 220/300 examples processed
+Progress: 230/300 examples processed
+Progress: 240/300 examples processed
+Progress: 250/300 examples processed
+Progress: 260/300 examples processed
+Progress: 270/300 examples processed
+Progress: 280/300 examples processed
+Progress: 290/300 examples processed
+Progress: 300/300 examples processed
+
+Metrics saved to: baseline_eval/results/baseline_metrics.json
+Detailed results saved to: baseline_eval/results/baseline_detailed_results.jsonl
+
+======================================================================
+BASELINE EVALUATION SUMMARY
+======================================================================
+
+Baseline Version: baseline_v1
+Total Examples: 300
+Eval Set Hash: 0e0427dcac8e877d
+
+Decision Accuracy: 36.24%
+  Correct: 108/298
+
+Policy Compliance:
+  Compliant: 270
+  Violations: 28
+  Ambiguous: 2
+
+JSON Validity: 99.33%
+  Valid: 298, Invalid: 2
+
+Operational Metrics:
+  Avg Latency: 6218.36 ms
+  P95 Latency: 6788.68 ms
+  Avg Input Tokens: 1183.0
+  Avg Output Tokens: 256.0
+  Total Tokens: 431715
+
+======================================================================
+
+# ========================================================================
+# BASELINE METRICS SUMMARY
+# ========================================================================
+# Model: Qwen/Qwen2.5-1.5B-Instruct (Untuned/Base Model)
+# Evaluation Date: December 23, 2025
+# Dataset: 300 examples
+# 
+# Key Performance Indicators:
+# - Decision Accuracy: 36.24% (108/298 correct)
+# - Policy Compliance: 90.0% (270/300 compliant)
+# - Policy Violations: 28 (9.3% violation rate)
+# - JSON Validity: 99.33% (298/300 valid)
+# - Average Latency: 6.22 seconds per example
+# - P95 Latency: 6.79 seconds
+# 
+# This baseline serves as the comparison point for fine-tuned model
+# performance. The fine-tuned model should improve upon these metrics.
+# ========================================================================
+

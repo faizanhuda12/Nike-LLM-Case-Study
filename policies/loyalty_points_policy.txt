@@ -1,0 +1,315 @@
+LOYALTY POINTS AND REWARDS POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-008
+Version: 1.4
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs our loyalty program, including points earning, points 
+redemption, points posting timelines, tier benefits, and points-related 
+inquiries. All customer service representatives must understand these 
+guidelines to properly assist customers with loyalty program questions and 
+issues.
+
+================================================================================
+2. LOYALTY PROGRAM STRUCTURE
+================================================================================
+
+2.1 Membership Tiers
+    Our loyalty program has four tiers:
+    
+    - Guest: No membership, no automatic benefits
+    - Member: Free membership, 5% automatic discount, points earning
+    - VIP: Enhanced membership, 10% automatic discount, bonus points,
+      exclusive promotions
+    - Employee: Special employee tier with employee-specific benefits
+    
+    Tier benefits are cumulative (VIP includes all Member benefits plus
+    additional VIP benefits).
+
+2.2 Points Earning Rate
+    Points are earned on qualifying purchases:
+    - Members: 1 point per $1 spent (1% back in points)
+    - VIP: 1.5 points per $1 spent (1.5% back in points)
+    - Employees: Per employee policy (confidential)
+    - Guests: No points earned (must join program)
+
+2.3 Qualifying Purchases
+    Points are earned on:
+    - Product purchases (full price, sale, clearance)
+    - Gift card purchases (points earned on purchase, not redemption)
+    
+    Points are NOT earned on:
+    - Shipping fees
+    - Taxes
+    - Returns and refunds (points deducted if item returned)
+    - Using points for purchase (no points on points)
+
+================================================================================
+3. POINTS POSTING TIMELINE
+================================================================================
+
+3.1 Standard Points Posting
+    Points are typically posted to customer accounts:
+    - After order ships: Points post within 24-48 hours of shipment
+    - For in-store purchases: Points post within 24-48 hours of purchase
+    - For online purchases: Points post after order fulfillment
+    
+    Standard posting window: 1-4 business days after order ships
+
+3.2 Points Posting Delays
+    Points may be delayed due to:
+    - Order processing delays
+    - System processing issues
+    - Account verification requirements
+    - High order volume periods
+    
+    If points not posted within 7 business days of shipment, investigate
+    and escalate if needed.
+
+3.3 Points for Pending Orders
+    - Points do NOT post for pending or unfulfilled orders
+    - Points post only after order ships
+    - Cancelled orders do not earn points
+    - If order cancelled after points posted, points will be deducted
+
+================================================================================
+4. POINTS REDEMPTION
+================================================================================
+
+4.1 Redemption Value
+    Points can be redeemed for:
+    - Discount on future purchases: 100 points = $1.00 discount
+    - Minimum redemption: 500 points ($5.00 discount)
+    - Maximum redemption per order: Varies by tier
+      * Member: Up to $50 per order (5,000 points)
+      * VIP: Up to $100 per order (10,000 points)
+      * Employee: Per employee policy
+
+4.2 Redemption Process
+    Customers can redeem points:
+    - At checkout (online or in-store)
+    - Through customer service (for adjustments)
+    - Points applied as discount to order total
+    - Points deducted from account immediately upon redemption
+
+4.3 Redemption Restrictions
+    Points cannot be redeemed for:
+    - Gift card purchases
+    - Shipping fees (in most cases)
+    - Taxes
+    - Certain restricted items (check item eligibility)
+    - Combined with some promotional codes (check promotion terms)
+
+4.4 Points Expiration
+    - Points do NOT expire for active accounts
+    - Points expire if account inactive for 24 months (no purchases)
+    - Expired points cannot be reinstated
+    - Customers notified before points expiration (if contact info current)
+
+================================================================================
+5. POINTS ADJUSTMENTS
+================================================================================
+
+5.1 Returns and Points Deduction
+    When customer returns item:
+    - Points earned on returned item are deducted from account
+    - Deduction occurs when return is processed
+    - If customer used points for purchase and returns item:
+      * Points used for purchase are refunded
+      * Points earned on purchase are deducted
+      * Net points adjustment calculated
+
+5.2 Price Adjustments
+    If order price adjusted (price match, promotion adjustment):
+    - Points recalculated based on final price
+    - Points adjusted within 3-5 business days
+    - Customer notified of points adjustment
+
+5.3 Points Correction
+    If points incorrectly posted or deducted:
+    - Investigate and verify correct points amount
+    - Adjust points account accordingly
+    - Document correction reason
+    - Notify customer of correction
+
+5.4 Missing Points
+    If customer reports missing points:
+    - Verify order shipped and points should have posted
+    - Check points posting timeline (may still be processing)
+    - If points should have posted but haven't: Manually add points
+    - Document issue for system review if pattern detected
+
+================================================================================
+6. TIER BENEFITS AND UPGRADES
+================================================================================
+
+6.1 Tier Qualification
+    - Member: Free to join, automatic 5% discount
+    - VIP: Qualify by spending $500+ in previous 12 months OR maintain
+      active membership with consistent purchases
+    - Tier status reviewed annually
+    - Tier downgrades: If VIP qualifications not met, may downgrade to
+      Member (notification provided)
+
+6.2 Tier Benefits Summary
+    Member Benefits:
+    - 5% automatic discount on all purchases
+    - Points earning (1 point per $1)
+    - Early access to sales (24 hours before public)
+    - Free standard shipping on orders $50+ (select regions)
+    
+    VIP Benefits (includes all Member benefits plus):
+    - 10% automatic discount on all purchases
+    - Enhanced points earning (1.5 points per $1)
+    - Exclusive VIP-only promotions
+    - Free expedited shipping on orders $100+ (select regions)
+    - Birthday rewards
+    - Dedicated customer service support
+
+6.3 Tier Upgrades
+    - Automatic upgrade when qualifications met
+    - Upgrade effective immediately upon qualification
+    - Benefits apply to next purchase
+    - Customer notified of tier upgrade
+
+6.4 Tier Downgrades
+    - Annual review of tier qualifications
+    - If VIP qualifications not met: Downgrade to Member
+    - 30-day notice before downgrade
+    - Points and benefits continue at new tier level
+    - Opportunity to requalify for VIP within notice period
+
+================================================================================
+7. POINTS TRANSFER AND GIFTING
+================================================================================
+
+7.1 Points Transfer Policy
+    - Points are NON-TRANSFERABLE between accounts
+    - Points cannot be gifted or transferred to other customers
+    - Points are tied to specific customer account
+    - Family accounts: Each family member has separate account and points
+
+7.2 Account Merging
+    If customer has multiple accounts and wants to merge:
+    - Points from both accounts can be combined
+    - Requires account verification
+    - One-time account merge process
+    - Escalate to account specialist for processing
+
+================================================================================
+8. POINTS DISPUTES AND CORRECTIONS
+================================================================================
+
+8.1 Points Dispute Process
+    When customer disputes points:
+    - Review order history and points posting records
+    - Verify points should have been earned
+    - Check for system errors or posting delays
+    - If error confirmed: Correct points immediately
+    - If points correct: Explain points calculation clearly
+
+8.2 Points Correction Timeline
+    - Points corrections processed within 1-2 business days
+    - Customer notified of correction
+    - Points appear in account immediately after correction
+
+8.3 Points System Errors
+    If system error caused points issue:
+    - Correct points immediately
+    - Document error for technical team
+    - Provide compensation if significant error (discount code, etc.)
+    - Monitor for pattern of errors
+
+================================================================================
+9. SPECIAL PROMOTIONS AND BONUS POINTS
+================================================================================
+
+9.1 Bonus Points Promotions
+    Periodically, we offer bonus points promotions:
+    - Double points days/weeks
+    - Bonus points on specific categories
+    - Tier-specific bonus point offers
+    - Promotional bonus points terms clearly stated
+
+9.2 Bonus Points Posting
+    - Bonus points post with standard points
+    - Bonus points subject to same posting timeline
+    - Bonus points can be redeemed like standard points
+    - Bonus points may have expiration (check promotion terms)
+
+9.3 Promotional Points Restrictions
+    - Bonus points promotions may have restrictions
+    - Check promotion terms for eligibility
+    - Some promotions exclude clearance or sale items
+    - Promotional points may not stack with other offers
+
+================================================================================
+10. ACCOUNT ISSUES AND POINTS
+================================================================================
+
+10.1 Account Verification
+    If account requires verification:
+    - Points posting may be delayed until verification complete
+    - Verify account to restore normal points processing
+    - Points will post retroactively once verified
+
+10.2 Account Closure
+    If customer account closed:
+    - Points are forfeited
+    - Points cannot be transferred or refunded
+    - Customer notified before account closure if points balance exists
+
+10.3 Inactive Accounts
+    - Accounts inactive 24+ months: Points expire
+    - Reactivate account: Expired points cannot be restored
+    - Make purchase to reactivate account and prevent future expiration
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Escalate loyalty points issues to supervisor or specialist for:
+- Points disputes over 1,000 points
+- Account merging requests
+- Tier qualification disputes
+- System errors affecting multiple customers
+- Complex points adjustments (returns with points used)
+- Points expiration disputes
+- VIP tier downgrade appeals
+- Suspected points fraud or abuse
+
+================================================================================
+12. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about loyalty points:
+- Clearly explain points earning and redemption
+- Show points balance and recent activity
+- Explain tier benefits and qualifications
+- Set expectations for points posting timelines
+- Provide clear next steps for points issues
+- Show empathy for points-related frustrations
+
+================================================================================
+13. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All loyalty points interactions must include:
+- Customer account and tier level
+- Points balance before and after transaction
+- Points earned or redeemed amount
+- Order numbers linked to points transactions
+- Points posting or adjustment dates
+- Resolution actions taken
+- Follow-up requirements if applicable
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

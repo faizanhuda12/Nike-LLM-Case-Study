@@ -1,0 +1,282 @@
+PROMOTIONS AND PRICING POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-003
+Version: 2.3
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs all promotional offers, discounts, pricing adjustments, 
+price matching, and related customer inquiries. All customer service 
+representatives must strictly adhere to these guidelines to ensure consistent 
+application of promotional terms and prevent unauthorized discounts.
+
+================================================================================
+2. RETROACTIVE PROMOTIONS
+================================================================================
+
+2.1 General Rule: NO RETROACTIVE APPLICATIONS
+    Promotional codes, discounts, and sale prices apply ONLY to purchases made
+    DURING the active promotion period. We do NOT apply promotions retroactively
+    to orders placed before a promotion begins, even if the promotion starts
+    shortly after the original purchase date.
+
+2.2 Promotion Period Definition
+    - Start Date: Promotion begins at 12:01 AM in the promotion's primary
+      time zone (typically Eastern Time for US promotions)
+    - End Date: Promotion ends at 11:59 PM in the promotion's primary time zone
+    - Orders must be placed AND confirmed within this window to qualify
+
+2.3 Exceptions to Retroactive Rule
+    The following situations MAY qualify for retroactive price adjustment
+    (requires supervisor approval):
+    
+    a) Order placed within 24 hours before promotion start AND customer
+       contacts us within 48 hours of promotion start
+    b) Technical error prevented customer from applying valid promotion code
+       at time of purchase (verified through system logs)
+    c) Customer service error where representative incorrectly stated promotion
+       would apply retroactively
+    
+    All exceptions require:
+    - Supervisor approval
+    - Documentation of circumstances
+    - One-time courtesy adjustment notation in customer account
+
+2.4 Price Protection Window
+    We offer price protection for purchases made within 7 days if price drops
+    occur on the same item (same SKU, same size, same color). This applies to:
+    - Regular price reductions
+    - New promotions on previously purchased items
+    - Clearance price reductions
+    
+    Price protection does NOT apply to:
+    - Limited-time flash sales
+    - Clearance items already purchased at clearance price
+    - Items purchased with other promotional codes
+
+================================================================================
+3. PROMOTION CODE STACKING
+================================================================================
+
+3.1 General Rule: NO STACKING
+    Unless explicitly stated in the promotion terms, promotional codes and
+    discounts CANNOT be combined or "stacked." Only ONE promotional code may
+    be applied per order.
+
+3.2 Stacking Prohibited Combinations
+    The following combinations are NEVER allowed unless explicitly stated:
+    - Multiple percentage-off codes
+    - Percentage-off code + dollar-amount discount code
+    - Promotional code + automatic sale discount
+    - Student discount + promotional code
+    - Employee discount + promotional code (except as per employee policy)
+    - Referral discount + promotional code
+
+3.3 Explicitly Allowed Stacking
+    Some promotions explicitly allow stacking. These will be clearly stated in:
+    - Promotion email or advertisement
+    - Promotion terms and conditions
+    - Checkout page when codes are applied
+    
+    When stacking is allowed, it will be clearly communicated. If not explicitly
+    stated, assume stacking is NOT allowed.
+
+3.4 Automatic Discounts
+    Site-wide sales and automatic discounts (applied without code) may be
+    combined with certain promotional codes ONLY if explicitly stated in
+    promotion terms. When in doubt, do NOT allow stacking.
+
+================================================================================
+4. CLEARANCE AND FINAL SALE ITEMS
+================================================================================
+
+4.1 Clearance Item Exclusions
+    Clearance items are EXCLUDED from most promotions unless explicitly stated
+    otherwise. This includes:
+    - Percentage-off promotional codes
+    - Site-wide sales
+    - Additional discount offers
+    
+    Clearance items may be eligible for:
+    - Clearance-specific promotions (clearly marked)
+    - Free shipping promotions (if not excluded in terms)
+
+4.2 Final Sale Items
+    Final sale items are EXCLUDED from all promotions and discounts. Final sale
+    items are clearly marked at time of purchase and cannot be returned or
+    exchanged (see Returns Policy).
+
+4.3 Clearance Price Adjustments
+    If a clearance item's price is further reduced after purchase:
+    - Price protection (Section 2.4) does NOT apply to clearance items
+    - No retroactive price adjustments for clearance purchases
+    - Customer may return and repurchase if within return window (if item is
+      not final sale)
+
+================================================================================
+5. PRICE MATCHING POLICY
+================================================================================
+
+5.1 Competitor Price Matching
+    We will match prices from authorized retailers for identical items (same
+    SKU, size, color) under the following conditions:
+    
+    a) Competitor must be an authorized retailer of the brand
+    b) Item must be in stock at competitor at time of price match request
+    c) Price match request must be made within 7 days of our purchase
+    d) Competitor price must be verifiable (website screenshot or link)
+    e) Competitor must be shipping to same region/country
+    f) Price difference must be at least $5 to process match
+    
+5.2 Price Match Process
+    - Customer provides competitor website link or screenshot
+    - We verify item is identical (SKU, size, color match)
+    - We verify competitor is authorized retailer
+    - We verify item is in stock at competitor
+    - If verified: Issue refund for price difference
+    - Processing time: 3-5 business days after verification
+
+5.3 Price Match Exclusions
+    Price matching is NOT available for:
+    - Clearance or final sale items
+    - Limited edition or exclusive items
+    - Items on backorder or preorder
+    - Competitor flash sales or limited-time promotions
+    - Third-party marketplace sellers (Amazon Marketplace, eBay, etc.)
+    - International retailers (unless we ship to that region)
+    - Items with bundled promotions or gifts-with-purchase
+
+5.4 Our Price Match Guarantee Window
+    Price match requests must be submitted within 7 days of purchase date.
+    After 7 days, price matching is not available.
+
+================================================================================
+6. STUDENT, MILITARY, AND EMPLOYEE DISCOUNTS
+================================================================================
+
+6.1 Student Discounts
+    - Available to verified students with valid .edu email or student ID
+    - Standard discount: 10% off (may vary by promotion)
+    - Cannot be combined with other promotional codes unless explicitly stated
+    - Verification required: Student ID or .edu email verification
+
+6.2 Military Discounts
+    - Available to active duty, veterans, and military families
+    - Standard discount: 15% off (may vary by promotion)
+    - Verification required: Military ID or verification through ID.me or
+      similar service
+    - Cannot be combined with other promotional codes unless explicitly stated
+
+6.3 Employee Discounts
+    - Available to verified employees and their immediate family
+    - Discount amount per employee policy (confidential)
+    - Cannot be combined with promotional codes
+    - Employee purchases subject to additional terms per HR policy
+
+================================================================================
+7. PROMOTIONAL CODE ERRORS AND TECHNICAL ISSUES
+================================================================================
+
+7.1 Invalid Code Errors
+    If customer reports code not working and code is verified as valid:
+    - Check code expiration date and terms
+    - Verify code applies to items in cart
+    - Check for technical issues in our system
+    - If technical error on our end: Apply discount manually and document
+    - If code expired or doesn't apply: Explain terms clearly
+
+7.2 System Errors
+    If our system incorrectly applies or rejects a promotional code:
+    - Honor the intended promotion if customer can demonstrate valid code
+    - Apply discount manually if system error confirmed
+    - Document issue for technical team
+    - Provide discount code for inconvenience if significant error
+
+7.3 Code Sharing and Abuse
+    - Promotional codes are intended for single-use or as specified in terms
+    - Sharing codes beyond intended audience may result in code deactivation
+    - Abuse of promotional codes (creating multiple accounts, etc.) may result
+      in account restrictions
+    - One-time use codes cannot be reused
+
+================================================================================
+8. SUBSCRIPTION AND MEMBERSHIP DISCOUNTS
+================================================================================
+
+8.1 Membership Tier Discounts
+    - Guest: No automatic discount
+    - Member: 5% off all purchases (automatic)
+    - VIP: 10% off all purchases + exclusive promotions
+    - Employee: Per employee discount policy
+    
+    Membership discounts apply automatically at checkout and may be combined
+    with certain promotional codes as specified in promotion terms.
+
+8.2 Auto-Renewal and Billing
+    - Membership subscriptions auto-renew unless cancelled
+    - Cancellation must be completed at least 24 hours before renewal date
+    - Refunds for unused portion of membership period: Case-by-case basis,
+      requires supervisor approval
+    - Billing cycle issues: Escalate to billing specialist
+
+================================================================================
+9. GIFT CARD AND STORE CREDIT PROMOTIONS
+================================================================================
+
+9.1 Gift Card Promotions
+    - Promotional codes generally do NOT apply to gift card purchases
+    - Gift cards may be purchased with promotional codes ONLY if explicitly
+      stated in promotion terms
+    - Gift cards themselves cannot be discounted
+
+9.2 Store Credit Usage
+    - Store credit can be used with promotional codes unless excluded in terms
+    - Store credit does not expire (check regional regulations)
+    - Store credit from returns can be combined with new promotions
+
+================================================================================
+10. ESCALATION CRITERIA
+================================================================================
+
+Escalate promotion and pricing issues to supervisor for:
+- Retroactive promotion requests (per Section 2.3 exceptions)
+- Price match requests over $100 difference
+- Complex stacking scenarios not clearly covered by policy
+- Promotional code system errors affecting multiple customers
+- Suspected promotional code abuse or fraud
+- High-value order price adjustments
+- Clearance item promotion eligibility questions
+- Membership discount disputes
+
+================================================================================
+11. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about promotions:
+- Always reference specific promotion terms
+- Clearly explain why a promotion does or does not apply
+- Provide alternative options when possible (future promotions, price
+  protection, etc.)
+- Maintain professional, empathetic tone even when declining requests
+- Never promise promotions or discounts not explicitly authorized
+
+================================================================================
+12. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All promotion-related interactions must include:
+- Promotion code or discount name
+- Application or denial reason
+- Customer account notation if exception granted
+- Supervisor approval documentation for exceptions
+- Link to specific promotion terms when applicable
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

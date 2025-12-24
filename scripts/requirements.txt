@@ -1,0 +1,7 @@
+azure-ai-ml>=1.0.0
+azure-identity>=1.15.0
+azure-core>=1.29.0
+
+
+
+

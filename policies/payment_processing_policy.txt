@@ -1,0 +1,300 @@
+PAYMENT PROCESSING POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-004
+Version: 1.6
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs payment processing, payment issues, refund processing, 
+pending charges, declined payments, and related financial transactions. All 
+customer service representatives must understand these guidelines to properly 
+address payment-related customer inquiries.
+
+================================================================================
+2. PAYMENT METHODS ACCEPTED
+================================================================================
+
+2.1 Accepted Payment Methods
+    We accept the following payment methods:
+    - Credit Cards: Visa, Mastercard, American Express, Discover
+    - Debit Cards: Visa Debit, Mastercard Debit
+    - Digital Wallets: PayPal, Apple Pay, Google Pay, Amazon Pay
+    - Store Credit: Previously issued store credit or gift cards
+    - Buy Now Pay Later: Klarna, Afterpay (select regions and order amounts)
+    - Bank Transfer: Available for select high-value orders (B2B)
+
+2.2 Payment Method Restrictions
+    - Some payment methods may not be available in all regions
+    - Digital wallets availability varies by region and device
+    - Buy Now Pay Later options have minimum and maximum order value limits
+    - International orders may have payment method restrictions based on
+      billing address
+
+================================================================================
+3. PENDING CHARGES AND AUTHORIZATION HOLDS
+================================================================================
+
+3.1 Authorization Holds
+    When an order is placed, we place an authorization hold (not an actual
+    charge) on the payment method to ensure funds are available. This hold:
+    - Appears as a "pending" transaction on customer's account
+    - Does NOT represent an actual charge until order ships
+    - Typically releases within 1-3 business days if order is cancelled
+    - May take up to 5 business days to release depending on bank/card issuer
+
+3.2 Pending Charge Duration
+    - Pre-shipment: Authorization hold remains until order ships
+    - Post-shipment: Authorization converts to actual charge when order ships
+    - Cancelled orders: Authorization hold releases within 1-5 business days
+      (timing depends on bank/card issuer, not our control)
+
+3.3 Customer Communication
+    When customers inquire about pending charges:
+    - Explain that pending charges are authorization holds, not actual charges
+    - Clarify that charge becomes final when order ships
+    - Inform that cancelled orders will have holds released within 5 business
+      days
+    - Provide order status and expected ship date if available
+    - If pending charge exceeds 5 business days for cancelled order, escalate
+      to payment specialist
+
+3.4 Multiple Pending Charges
+    If customer sees multiple pending charges for same order:
+    - Check order status and payment history
+    - Multiple holds may occur if order was modified or payment method updated
+    - Extra holds should release automatically within 5 business days
+    - If multiple charges persist beyond 5 business days, escalate to
+      payment specialist for investigation
+
+================================================================================
+4. DECLINED PAYMENTS
+================================================================================
+
+4.1 Common Decline Reasons
+    Payment declines can occur for various reasons:
+    - Insufficient funds
+    - Card expired or invalid
+    - Billing address mismatch
+    - Card issuer fraud protection triggered
+    - Daily spending limit reached
+    - Card blocked or frozen by cardholder
+    - International transaction restrictions
+
+4.2 Handling Declined Payments
+    When payment is declined:
+    - Customer receives immediate notification at checkout
+    - Order is NOT placed (no charge, no order confirmation)
+    - Customer should contact their bank/card issuer for specific decline reason
+    - We cannot override bank/card issuer decline decisions
+    - Customer may try alternative payment method
+
+4.3 Payment Decline Investigation
+    If customer insists payment should have been accepted:
+    - Verify order details and payment method used
+    - Check for system errors on our end (rare)
+    - Advise customer to contact bank/card issuer for specific reason
+    - Suggest trying alternative payment method
+    - If pattern of declines for valid payment methods, escalate to payment
+      specialist
+
+4.4 Retry Policies
+    - Customers may retry declined payment immediately with same or different
+      payment method
+    - No limit on retry attempts (subject to fraud prevention systems)
+    - If multiple declines occur, customer should contact bank/card issuer
+      before retrying
+
+================================================================================
+5. DUPLICATE CHARGES
+================================================================================
+
+5.1 Duplicate Charge Detection
+    If customer reports duplicate charge:
+    - Immediately investigate order and payment history
+    - Check for multiple order confirmations
+    - Verify if charges are authorization holds vs. actual charges
+    - Check for system errors or processing issues
+
+5.2 Duplicate Charge Resolution
+    If duplicate charge is confirmed:
+    - Issue immediate refund for duplicate charge
+    - Process refund within 1 business day of confirmation
+    - Refund processes to original payment method (5-10 business days to
+      appear)
+    - Provide refund confirmation and tracking information
+    - Apologize for inconvenience
+    - Document issue for technical team investigation
+
+5.3 False Duplicate Reports
+    If investigation shows charges are legitimate (e.g., separate orders,
+    authorization hold + actual charge):
+    - Clearly explain charge breakdown to customer
+    - Show order details and dates for each charge
+    - Provide payment history if helpful
+    - If customer still disputes, escalate to payment specialist
+
+================================================================================
+6. REFUND PROCESSING
+================================================================================
+
+6.1 Refund Processing Time
+    - Refund initiated: Within 1 business day of return receipt/approval
+    - Refund processing: 5-10 business days to appear on customer's account
+    - Timing depends on bank/card issuer, not our control
+    - Digital wallet refunds may process faster (1-3 business days)
+
+6.2 Refund Method
+    - Refunds issued to original payment method used for purchase
+    - Cannot refund to different payment method or account
+    - If original payment method is no longer valid, issue store credit
+    - Store credit issued immediately upon refund processing
+
+6.3 Partial Refunds
+    Partial refunds may be issued for:
+    - Partial order cancellations
+    - Price adjustments
+    - Partial returns (if policy allows)
+    - Promotional adjustments
+    
+    Processing time same as full refunds.
+
+6.4 Refund Status Inquiries
+    When customers inquire about refund status:
+    - Check refund initiation date and status
+    - Confirm refund was processed (show confirmation if available)
+    - Explain 5-10 business day processing window
+    - If refund initiated more than 10 business days ago and not received,
+      escalate to payment specialist
+    - Provide refund confirmation number if available
+
+================================================================================
+7. PAYMENT METHOD UPDATES
+================================================================================
+
+7.1 Updating Payment Method Before Shipment
+    - Customers can update payment method if order hasn't shipped
+    - Original authorization hold will release (1-5 business days)
+    - New authorization hold placed on new payment method
+    - Order processes with new payment method
+
+7.2 Payment Method Updates After Shipment
+    - Cannot change payment method after order ships
+    - If original payment fails after shipment, order may be at risk
+    - Contact customer immediately if payment issue detected post-shipment
+    - May require alternative resolution (payment plan, etc.) - escalate
+
+================================================================================
+8. FRAUD PREVENTION AND VERIFICATION
+================================================================================
+
+8.1 Fraud Prevention Measures
+    Our systems may flag orders for additional verification:
+    - Unusual purchase patterns
+    - High-value orders
+    - Shipping address mismatch
+    - International orders from new accounts
+    - Rapid multiple orders
+
+8.2 Verification Process
+    If order requires verification:
+    - Customer may be contacted via email or phone
+    - May request additional identification or payment verification
+    - Order held until verification complete
+    - If verification fails, order cancelled and refunded
+
+8.3 Customer Communication
+    When fraud verification required:
+    - Clearly explain why verification is needed
+    - Provide steps to complete verification
+    - Set expectations for verification timeline
+    - Maintain security while being helpful
+
+================================================================================
+9. INTERNATIONAL PAYMENTS
+================================================================================
+
+9.1 Currency and Exchange Rates
+    - Prices displayed in local currency where available
+    - Exchange rates determined by payment processor at time of transaction
+    - Customer's bank may apply additional foreign transaction fees
+    - We are not responsible for bank-imposed foreign transaction fees
+
+9.2 International Payment Restrictions
+    Some payment methods may not be available for international orders:
+    - Check regional availability
+    - Some digital wallets region-restricted
+    - Bank transfer may be required for certain regions/amounts
+
+9.3 Billing Address Requirements
+    - Billing address must match payment method billing address
+    - International billing addresses may require additional verification
+    - Mismatched addresses may cause payment declines
+
+================================================================================
+10. SUBSCRIPTION AND RECURRING PAYMENTS
+================================================================================
+
+10.1 Membership Auto-Renewal
+    - Membership subscriptions automatically renew at end of billing cycle
+    - Payment method on file charged automatically
+    - Customer notified before renewal (email notification)
+    - Customer can cancel before renewal to prevent charge
+
+10.2 Recurring Payment Issues
+    If recurring payment fails:
+    - Customer notified immediately via email
+    - Membership benefits may be suspended until payment successful
+    - Customer can update payment method and retry
+    - Multiple failed attempts may result in membership cancellation
+
+10.3 Cancelling Recurring Payments
+    - Customers can cancel anytime before next billing cycle
+    - Cancellation must be completed at least 24 hours before renewal
+    - No refund for current billing period (access continues until period end)
+    - Cancellation confirmed via email
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Escalate payment issues to payment specialist or supervisor for:
+- Duplicate charges confirmed
+- Refunds not received after 10+ business days
+- Payment method updates needed after shipment
+- Fraud verification failures requiring manual review
+- High-value payment disputes ($500+)
+- International payment complications
+- Recurring payment failures requiring account review
+- Suspected payment system errors affecting multiple customers
+
+================================================================================
+12. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All payment-related interactions must include:
+- Payment method type and last 4 digits (if discussing specific transaction)
+- Transaction dates and amounts
+- Order numbers linked to payments
+- Refund confirmation numbers when issued
+- Escalation notes for complex issues
+- Customer account notation for payment issues
+
+================================================================================
+13. SECURITY AND PRIVACY
+================================================================================
+
+- Never request full credit card numbers from customers
+- Never request CVV codes or PINs
+- Only discuss payment details with verified account holder
+- Follow PCI-DSS compliance guidelines
+- Protect customer payment information per privacy policy
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

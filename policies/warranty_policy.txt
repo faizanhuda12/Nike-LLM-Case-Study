@@ -1,0 +1,305 @@
+WARRANTY POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-006
+Version: 1.5
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs warranty claims for manufacturing defects and product 
+quality issues. It defines what is covered under warranty, warranty duration, 
+claim procedures, and resolution processes. All customer service 
+representatives must understand these guidelines to properly evaluate and 
+process warranty claims.
+
+================================================================================
+2. WARRANTY COVERAGE
+================================================================================
+
+2.1 Standard Warranty Period
+    We provide a manufacturer's warranty covering manufacturing defects for a
+    period of ONE (1) YEAR from the date of purchase. This warranty applies to
+    all products sold through our channels unless otherwise stated.
+
+2.2 What is Covered
+    The warranty covers manufacturing defects including but not limited to:
+    
+    - Material defects: Fabric tears, material failure, premature wear due to
+      manufacturing issues
+    - Construction defects: Seam failures, sole separation, zipper malfunctions,
+      button/closure failures
+    - Sizing defects: Incorrect size labels (item does not match labeled size)
+    - Component defects: Missing parts, defective hardware (buckles, clasps,
+      etc.), faulty electronics in smart products
+    - Color/finish defects: Premature fading, color bleeding, finish defects
+      not caused by normal wear
+    - Manufacturing errors: Items that do not meet stated specifications due to
+      production errors
+
+2.3 What is NOT Covered
+    The warranty does NOT cover:
+    
+    - Normal wear and tear from intended use
+    - Damage caused by misuse, abuse, or accidents
+    - Damage from improper care (wrong washing methods, etc.)
+    - Damage from modifications or alterations
+    - Cosmetic damage that does not affect functionality
+    - Damage from exposure to extreme conditions (unless product designed for
+      such conditions)
+    - Items purchased from unauthorized retailers
+    - Items without proof of purchase
+    - Clearance or final sale items (unless defective at time of purchase)
+    - Consumable items (socks, insoles, etc.) unless defective
+
+================================================================================
+3. WARRANTY CLAIM PROCESS
+================================================================================
+
+3.1 Claim Submission
+    Customers may submit warranty claims through:
+    - Online warranty claim form
+    - Customer service chat
+    - Email support
+    - Phone support
+    
+    All claims require:
+    - Order number or proof of purchase
+    - Description of defect
+    - Photographs of defect (required for evaluation)
+    - Product information (SKU, size, color if available)
+
+3.2 Claim Evaluation
+    Upon receiving warranty claim:
+    - Verify purchase date and warranty period eligibility
+    - Review defect description and photographs
+    - Determine if defect is covered under warranty
+    - Check if defect is manufacturing issue vs. normal wear/damage
+    - Evaluation typically completed within 3-5 business days
+
+3.3 Approval Criteria
+    Warranty claim approved if:
+    - Claim submitted within warranty period (1 year from purchase)
+    - Defect is manufacturing defect (per Section 2.2)
+    - Defect is not excluded (per Section 2.3)
+    - Photographs/documentation support claim
+    - Product purchased from authorized retailer (us)
+
+3.4 Denial Criteria
+    Warranty claim denied if:
+    - Outside warranty period (over 1 year from purchase)
+    - Defect is normal wear and tear
+    - Damage caused by misuse or abuse
+    - Insufficient documentation
+    - Defect not manufacturing-related
+    - Product purchased from unauthorized source
+
+================================================================================
+4. WARRANTY RESOLUTION OPTIONS
+================================================================================
+
+4.1 Approved Warranty Claims
+    For approved warranty claims, customer may choose ONE of the following:
+    
+    a) Replacement: Receive replacement item (same or equivalent if original
+       unavailable)
+    b) Repair: Item repaired by manufacturer or authorized service center
+       (if repair feasible and cost-effective)
+    c) Refund: Full refund of original purchase price (excluding original
+       shipping unless defect was our error)
+
+4.2 Replacement Process
+    - Replacement shipped within 5-7 business days of approval
+    - Customer receives prepaid return label for defective item
+    - Replacement shipping at no cost to customer
+    - If original item unavailable, equivalent item or full refund offered
+
+4.3 Repair Process
+    - Item sent to manufacturer or authorized service center
+    - Repair timeline: 2-4 weeks typically
+    - Customer receives prepaid shipping label
+    - If repair not feasible, replacement or refund offered instead
+
+4.4 Refund Process
+    - Refund processed within 1 business day of approval
+    - Refund to original payment method (5-10 business days to appear)
+    - Customer receives prepaid return label for defective item
+    - Full purchase price refunded (excluding original shipping unless our
+      error)
+
+================================================================================
+5. EXTENDED WARRANTIES
+================================================================================
+
+5.1 Extended Warranty Options
+    Some products may be eligible for extended warranty purchases at time of
+    sale. Extended warranties:
+    - Extend coverage beyond standard 1-year period
+    - Terms and coverage vary by product and warranty plan
+    - Must be purchased at time of original purchase
+    - Cannot be added after purchase
+
+5.2 Extended Warranty Claims
+    Extended warranty claims follow same process as standard warranty but
+    with extended time period per purchased warranty terms.
+
+================================================================================
+6. PROOF OF PURCHASE REQUIREMENTS
+================================================================================
+
+6.1 Acceptable Proof of Purchase
+    Warranty claims require proof of purchase:
+    - Order confirmation email
+    - Receipt (digital or physical)
+    - Order number with verifiable purchase in our system
+    - Account purchase history showing item
+
+6.2 Missing Proof of Purchase
+    If customer cannot provide proof of purchase:
+    - We may verify purchase through account history if customer account
+      can be verified
+    - If purchase cannot be verified, warranty claim may be denied
+    - Customer may provide bank/card statement showing purchase (requires
+      additional verification)
+
+================================================================================
+7. PHOTOGRAPH REQUIREMENTS
+================================================================================
+
+7.1 Required Photographs
+    Warranty claims must include clear photographs showing:
+    - Overall view of item showing defect location
+    - Close-up of defect showing detail
+    - Any relevant tags, labels, or identifying information
+    - Defect in context (how it affects use)
+
+7.2 Photograph Quality
+    Photographs must be:
+    - Clear and in focus
+    - Well-lit
+    - Show defect clearly
+    - Include item identification if possible
+
+7.3 Insufficient Documentation
+    If photographs are unclear or insufficient:
+    - Request additional photographs
+    - May request item be returned for inspection (at our cost)
+    - Evaluation may be delayed until adequate documentation received
+
+================================================================================
+8. WARRANTY TRANSFER AND SECOND-HAND ITEMS
+================================================================================
+
+8.1 Warranty Transfer
+    - Warranty follows the product, not the purchaser
+    - Original proof of purchase required
+    - Warranty period based on original purchase date
+    - Second-hand purchases eligible if within warranty period and have
+      proof of original purchase
+
+8.2 Gift Purchases
+    - Warranty applies to gift recipients
+    - Original purchaser's proof of purchase or order number required
+    - Warranty period based on original purchase date
+
+================================================================================
+9. REGIONAL VARIATIONS
+================================================================================
+
+9.1 Regional Warranty Requirements
+    Some regions have mandatory warranty periods that may exceed our standard
+    1-year warranty:
+    - European Union: 2-year legal warranty for defects present at time of
+      sale
+    - Australia: Consumer guarantees may extend beyond 1 year for major
+      failures
+    - Other regions: Check local consumer protection laws
+
+9.2 Regional Compliance
+    Our warranty policy meets or exceeds minimum requirements in all regions
+    where we operate. Regional legal requirements take precedence over this
+    policy where they provide greater protection to consumers.
+
+================================================================================
+10. WARRANTY VS. RETURN POLICY
+================================================================================
+
+10.1 Distinction
+    - Return Policy: Covers returns within return window (30-60 days) for
+      any reason, subject to condition requirements
+    - Warranty Policy: Covers manufacturing defects for 1 year, regardless
+      of condition or return window
+
+10.2 Overlapping Claims
+    If item has manufacturing defect within return window:
+    - Customer may choose return process OR warranty process
+    - Return process typically faster (immediate refund/replacement)
+    - Warranty process available if return window expired
+    - Both processes available for defective items
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Escalate warranty claims to supervisor or specialist for:
+- High-value items (over $500)
+- Complex defects requiring technical evaluation
+- Warranty claims near or beyond 1-year limit with extenuating circumstances
+- Disputes regarding defect classification (manufacturing vs. wear)
+- Multiple warranty claims from same customer
+- Suspected warranty abuse
+- Regional legal requirement questions
+- Repair vs. replacement cost decisions
+
+================================================================================
+12. WARRANTY ABUSE PREVENTION
+================================================================================
+
+12.1 Abuse Indicators
+    Watch for patterns that may indicate warranty abuse:
+    - Multiple warranty claims for same customer
+    - Claims for normal wear presented as defects
+    - Claims without adequate documentation
+    - Claims for items clearly damaged by misuse
+    - Pattern of claims just before warranty expiration
+
+12.2 Response to Suspected Abuse
+    If warranty abuse suspected:
+    - Require additional documentation
+    - May require item inspection before approval
+    - Escalate to supervisor for review
+    - Document concerns in customer account
+    - May limit warranty coverage for repeat abusers
+
+================================================================================
+13. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about warranty claims:
+- Clearly explain what is and is not covered
+- Set realistic expectations for evaluation timeline
+- Explain resolution options clearly
+- Show empathy for product issues
+- Maintain professional tone even when denying claims
+- Provide clear next steps and timelines
+
+================================================================================
+14. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All warranty claims must be documented with:
+- Claim submission date and method
+- Purchase date and order number
+- Defect description and photographs
+- Evaluation decision and reasoning
+- Resolution method chosen by customer
+- Replacement/repair/refund processing details
+- Follow-up requirements if applicable
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

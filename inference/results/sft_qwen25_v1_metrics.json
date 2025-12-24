@@ -1,0 +1,121 @@
+{
+  "baseline_info": {
+    "baseline_version": "sft_qwen25_v1",
+    "base_model": "microsoft/Phi-3-mini-4k-instruct",
+    "policy_version": "policy_v1",
+    "eval_set_hash": "0e0427dcac8e877d",
+    "total_examples": 300
+  },
+  "decision_accuracy": {
+    "overall_accuracy": 69.82,
+    "correct_decisions": 192,
+    "decision_attempts": 275,
+    "by_issue_type": {
+      "size_fit": 76.92,
+      "payment_issue": 92.31,
+      "warranty_claim": 62.5,
+      "subscription_membership": 100.0,
+      "shipping_delay": 54.55,
+      "preorder_delay": 75.0,
+      "tax_duty_question": 10.53,
+      "fraud_chargeback": 93.75,
+      "order_modification": 71.43,
+      "digital_product_issue": 86.67,
+      "damaged_item": 71.43,
+      "price_match": 75.0,
+      "address_issue": 44.44,
+      "promotion_pricing": 76.92,
+      "compliance_restriction": 100.0,
+      "store_pickup": 100.0,
+      "loyalty_points": 46.67,
+      "missing_item": 76.92,
+      "return_exchange": 46.15
+    },
+    "by_region": {
+      "US": 78.57,
+      "UK": 65.57,
+      "EU": 61.82,
+      "AU": 69.81,
+      "CA": 74.0
+    },
+    "by_customer_tier": {
+      "Guest": 70.73,
+      "Employee": 68.25,
+      "Member": 71.43,
+      "VIP": 68.92
+    }
+  },
+  "policy_compliance": {
+    "violations": 6,
+    "compliant": 269,
+    "ambiguous": 25
+  },
+  "json_validity": {
+    "valid_json_rate": 91.67,
+    "valid": 275,
+    "invalid": 25,
+    "missing_fields": {},
+    "invalid_types": {}
+  },
+  "language_compliance": {
+    "language_violations": 0
+  },
+  "operational_metrics": {
+    "avg_latency_ms": 5634.77,
+    "p50_latency_ms": 5678.84,
+    "p95_latency_ms": 6674.21,
+    "avg_input_tokens": 1004.2,
+    "avg_output_tokens": 71.9,
+    "total_tokens": 322822
+  },
+  "violation_details": [
+    {
+      "example_idx": 87,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Return approved outside window",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 94,
+      "issue_type": "promotion_pricing",
+      "violation_type": "violation",
+      "details": "Discount stacking not allowed",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 98,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Defective items must be eligible",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Eligible"
+    },
+    {
+      "example_idx": 142,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Invalid condition approved",
+      "predicted_decision": "Eligible",
+      "ground_truth_decision": "Not Eligible"
+    },
+    {
+      "example_idx": 155,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Defective items must be eligible",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Eligible"
+    },
+    {
+      "example_idx": 256,
+      "issue_type": "return_exchange",
+      "violation_type": "violation",
+      "details": "Defective items must be eligible",
+      "predicted_decision": "Not Eligible",
+      "ground_truth_decision": "Eligible"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+COMPLIANCE AND RESTRICTIONS POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-011
+Version: 1.2
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs product restrictions, regional compliance requirements, 
+age restrictions, export controls, and regulatory compliance issues. It 
+provides guidance for handling customer inquiries about restricted products, 
+shipping restrictions, and compliance-related questions.
+
+================================================================================
+2. REGIONAL SHIPPING RESTRICTIONS
+================================================================================
+
+2.1 Restricted Regions
+    Some products may not be available for shipment to certain regions due to:
+    - Regulatory restrictions
+    - Export controls
+    - Product-specific regulations
+    - Carrier limitations
+    - Business decisions
+    
+    Restricted regions and products are identified in our system and at
+    checkout.
+
+2.2 Restricted Product Categories
+    Certain product categories may have regional restrictions:
+    - Electronics with specific certifications
+    - Products with battery restrictions
+    - Items subject to import regulations
+    - Products requiring special licenses
+    - Items restricted by destination country laws
+
+2.3 Handling Restricted Orders
+    If customer attempts to order restricted product:
+    - System prevents order completion if restriction detected
+    - Customer notified of restriction at checkout
+    - Alternative products suggested if available
+    - Explanation provided for restriction when possible
+    - Customer service can clarify restrictions but cannot override
+
+2.4 Regional Compliance Requirements
+    Orders must comply with:
+    - Destination country import regulations
+    - Product-specific regulations (safety, certification, etc.)
+    - Export control laws (if applicable)
+    - Regional consumer protection laws
+    - Customs and trade regulations
+
+================================================================================
+3. AGE RESTRICTIONS AND VERIFICATION
+================================================================================
+
+3.1 Age-Restricted Products
+    Some products have age restrictions:
+    - Products requiring minimum age (18+, 21+, etc.)
+    - Age verification required at purchase
+    - Age verification may be required at delivery
+    - Restrictions based on product type and regional laws
+
+3.2 Age Verification Process
+    Age verification may require:
+    - Account age verification during registration
+    - ID verification at checkout for age-restricted items
+    - Signature and ID verification at delivery
+    - Third-party age verification services
+    
+    Age verification requirements vary by product and region.
+
+3.3 Age Verification Failure
+    If age verification fails:
+    - Order cannot be completed
+    - Customer notified of verification requirement
+    - Alternative verification methods offered if available
+    - Refund provided if order placed but verification fails
+
+3.4 Age Restriction Inquiries
+    When customers ask about age restrictions:
+    - Clearly state age requirement
+    - Explain why restriction exists (legal requirement, product safety, etc.)
+    - Provide information about verification process
+    - Suggest alternative products if available
+
+================================================================================
+4. EXPORT CONTROLS
+================================================================================
+
+4.1 Export-Controlled Products
+    Some products may be subject to export control regulations:
+    - Products with dual-use technology
+    - Items restricted by export control laws
+    - Products requiring export licenses
+    - Items restricted to certain countries
+    
+    Export controls are legal requirements we must comply with.
+
+4.2 Export Control Compliance
+    - We screen orders for export control compliance
+    - Restricted destinations identified automatically
+    - Orders to restricted destinations cannot be processed
+    - Customer notified if order restricted by export controls
+
+4.3 Export Control Inquiries
+    If customer asks about export restrictions:
+    - Explain that restrictions are legal requirements
+    - Cannot override export control restrictions
+    - Suggest alternative products if available
+    - Provide general information but cannot provide legal advice
+
+================================================================================
+5. PRODUCT-SPECIFIC RESTRICTIONS
+================================================================================
+
+5.1 Battery and Electronics Restrictions
+    Products with batteries may have restrictions:
+    - Lithium battery shipping restrictions
+    - Air shipping limitations for certain battery types
+    - Regional battery regulations
+    - Carrier-specific battery restrictions
+    
+    Restrictions displayed at checkout and in product details.
+
+5.2 Size and Weight Restrictions
+    Some products have shipping restrictions due to:
+    - Oversized items (carrier limitations)
+    - Weight restrictions (carrier or regional limits)
+    - Fragile item handling requirements
+    - Special shipping requirements
+    
+    Alternative shipping methods may be available.
+
+5.3 Hazardous Materials
+    Products classified as hazardous materials:
+    - Subject to special shipping requirements
+    - May have restricted shipping destinations
+    - Require special packaging and labeling
+    - May require additional shipping fees
+    
+    Hazardous material restrictions are safety and legal requirements.
+
+================================================================================
+6. REGULATORY COMPLIANCE
+================================================================================
+
+6.1 Product Safety and Certification
+    Products must meet:
+    - Destination country safety standards
+    - Required certifications (CE, FCC, etc.)
+    - Regional product regulations
+    - Industry-specific standards
+    
+    Non-compliant products cannot be shipped to regions requiring compliance.
+
+6.2 Labeling and Documentation Requirements
+    Some regions require:
+    - Specific product labeling
+    - Language requirements for labels
+    - Regulatory documentation
+    - Compliance certificates
+    
+    We provide required documentation where applicable.
+
+6.3 Compliance Inquiries
+    When customers ask about compliance:
+    - Explain compliance requirements when known
+    - Provide product certification information if available
+    - Refer to product details and specifications
+    - Escalate complex compliance questions to specialist
+
+================================================================================
+7. RESTRICTED CUSTOMER ACCOUNTS
+================================================================================
+
+7.1 Account Restrictions
+    Customer accounts may be restricted due to:
+    - Violation of terms of service
+    - Suspected fraudulent activity
+    - Payment issues
+    - Return policy abuse
+    - Other policy violations
+    
+    Restricted accounts have limited functionality.
+
+7.2 Restriction Notification
+    - Customers notified of account restrictions
+    - Reason for restriction explained (when appropriate)
+    - Steps to resolve restriction provided
+    - Appeal process available for certain restrictions
+
+7.3 Restriction Resolution
+    To resolve account restrictions:
+    - Address underlying issue (payment, return, etc.)
+    - Contact customer service for review
+    - Provide required documentation
+    - Follow resolution process provided
+
+================================================================================
+8. INTERNATIONAL TRADE RESTRICTIONS
+================================================================================
+
+8.1 Trade Embargoes and Sanctions
+    We comply with:
+    - International trade embargoes
+    - Economic sanctions
+    - Trade restrictions by government authorities
+    - Export ban lists
+    
+    Orders to embargoed or sanctioned regions cannot be processed.
+
+8.2 Sanctioned Regions
+    - Orders to sanctioned regions automatically blocked
+    - Customer notified if order restricted by sanctions
+    - Cannot override sanction restrictions
+    - Restrictions are legal requirements
+
+8.3 Trade Restriction Inquiries
+    If customer asks about trade restrictions:
+    - Explain that restrictions are legal requirements
+    - Cannot provide legal advice on trade restrictions
+    - Suggest consulting with trade compliance specialist if needed
+    - Provide general information only
+
+================================================================================
+9. PRODUCT RECALLS AND SAFETY NOTICES
+================================================================================
+
+9.1 Recall Notifications
+    If product subject to recall:
+    - Customers notified immediately
+    - Recall information provided
+    - Return/refund process for recalled items
+    - Safety instructions provided if applicable
+
+9.2 Safety Notices
+    Safety notices issued for:
+    - Product safety concerns
+    - Usage warnings
+    - Important safety information
+    - Regulatory updates affecting product use
+    
+    Customers notified and provided with safety information.
+
+9.3 Recall and Safety Inquiries
+    When customers ask about recalls or safety:
+    - Check for active recalls or safety notices
+    - Provide recall or safety information
+    - Assist with return/refund if recalled
+    - Escalate to product safety team if needed
+
+================================================================================
+10. DATA PROTECTION AND PRIVACY COMPLIANCE
+================================================================================
+
+10.1 Regional Data Protection
+    We comply with regional data protection regulations:
+    - GDPR (European Union)
+    - CCPA (California)
+    - Other regional privacy laws
+    - Data retention requirements
+    
+    Customer data handled per privacy policy and regulations.
+
+10.2 Privacy Inquiries
+    When customers ask about privacy:
+    - Refer to privacy policy
+    - Explain data handling practices
+    - Assist with privacy requests (data access, deletion, etc.)
+    - Escalate complex privacy questions to privacy team
+
+================================================================================
+11. ACCESSIBILITY COMPLIANCE
+================================================================================
+
+11.1 Accessibility Requirements
+    We strive to comply with:
+    - Web accessibility standards (WCAG)
+    - Regional accessibility requirements
+    - Product accessibility standards where applicable
+    
+    Accessibility is important for inclusive customer experience.
+
+11.2 Accessibility Inquiries
+    When customers ask about accessibility:
+    - Provide information about accessibility features
+    - Assist with accessibility needs
+    - Escalate accessibility concerns to appropriate team
+    - Document accessibility feedback for improvement
+
+================================================================================
+12. ESCALATION CRITERIA
+================================================================================
+
+Escalate compliance and restriction issues to supervisor or specialist for:
+- Complex regulatory compliance questions
+- Export control inquiries requiring legal review
+- Age verification disputes
+- Account restriction appeals
+- Product recall or safety concerns
+- Trade restriction questions
+- Regional compliance law questions
+- Accessibility compliance issues
+- Data protection and privacy requests
+- Any restriction override requests (typically cannot override)
+
+================================================================================
+13. COMMUNICATION GUIDELINES
+================================================================================
+
+When communicating about restrictions and compliance:
+- Clearly explain why restriction exists (legal requirement, safety, etc.)
+- Show empathy for customer frustration
+- Provide alternatives when available
+- Explain that restrictions are requirements, not preferences
+- Maintain professional tone even when restriction cannot be overridden
+- Provide clear next steps when possible
+
+================================================================================
+14. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All compliance and restriction interactions must include:
+- Restriction type and reason
+- Product or region affected
+- Customer inquiry and response
+- Alternatives suggested (if any)
+- Escalation notes if applicable
+- Follow-up requirements
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+

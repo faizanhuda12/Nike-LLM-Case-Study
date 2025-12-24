@@ -1,0 +1,111 @@
+# ========================================================================
+# QLoRA + SFT Training Run - Proof of Execution
+# Date: 2025-12-23
+# Model: Qwen/Qwen2.5-1.5B-Instruct
+# ========================================================================
+
+root@e4c755269e49:/workspace# PYTHONUNBUFFERED=1 python train_qlora_sft.py \
+    --model_name Qwen/Qwen2.5-1.5B-Instruct \
+    --dataset_path training/data/processed/sft_training_dataset_3000.jsonl \
+    --output_dir models/qlora_sft_qwen25_v1 \
+    --cache_dir /workspace/hf_cache \
+    --num_train_epochs 3 \
+    --per_device_train_batch_size 4 \
+    --gradient_accumulation_steps 8 \
+    --learning_rate 2e-4 \
+    --max_seq_length 2048 \
+    --val_split 0.1 \
+    --logging_steps 10 \
+    --save_steps 500 \
+    --eval_steps 500 \
+    --save_total_limit 3 \
+    2>&1 | tee training_log.txt
+
+2025-12-23 04:54:39,622 - training.utils - INFO - Logging initialized. Log file: models/qlora_sft_qwen25_v1/logs/training_20251223_045439.log
+
+2025-12-23 04:54:39,622 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:39,622 - training.utils - INFO - System Information
+2025-12-23 04:54:39,623 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:39,623 - training.utils - INFO - Python version: 3.11.10 (main, Sep  7 2024, 18:35:41) [GCC 11.4.0]
+2025-12-23 04:54:39,623 - training.utils - INFO - PyTorch version: 2.4.1+cu124
+2025-12-23 04:54:39,623 - training.utils - INFO - Transformers version: 4.57.3
+2025-12-23 04:54:39,644 - training.utils - INFO - CUDA available: True
+2025-12-23 04:54:39,644 - training.utils - INFO - CUDA version: 12.4
+2025-12-23 04:54:39,663 - training.utils - INFO - GPU count: 1
+2025-12-23 04:54:39,665 - training.utils - INFO -   GPU 0: NVIDIA GeForce RTX 4090 (25.4 GB)
+2025-12-23 04:54:39,665 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:39,666 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:39,666 - training.utils - INFO - QLoRA + SFT Training - Enterprise Production Run
+2025-12-23 04:54:39,666 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:39,670 - training.utils - INFO - Using auto-detected Qwen target modules: ['q_proj', 'k_proj', 'v_proj', 'o_proj', 'gate_proj', 'up_proj', 'down_proj']
+2025-12-23 04:54:39,671 - training.utils - INFO - Precision: bf16=True, fp16=False
+2025-12-23 04:54:39,676 - training.utils - INFO - Saved run configuration to: models/qlora_sft_qwen25_v1/run_config.json
+2025-12-23 04:54:39,676 - training.utils - INFO - Loading model and tokenizer...
+2025-12-23 04:54:39,676 - training.utils - INFO - GPU: NVIDIA GeForce RTX 4090 (25.4 GB)
+2025-12-23 04:54:39,677 - training.utils - INFO - Loading tokenizer: Qwen/Qwen2.5-1.5B-Instruct
+2025-12-23 04:54:43,509 - training.utils - INFO - Configuring 4-bit QLoRA (NF4)...
+2025-12-23 04:54:43,512 - training.utils - INFO - Loading model in 4-bit: Qwen/Qwen2.5-1.5B-Instruct
+2025-12-23 04:54:45,507 - accelerate.utils.modeling - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-12-23 04:54:48,930 - training.utils - INFO - Preparing model for k-bit training with gradient checkpointing...
+2025-12-23 04:54:48,940 - training.utils - INFO - Configuring LoRA: r=16, alpha=32, dropout=0.05
+2025-12-23 04:54:48,941 - training.utils - INFO - Target modules: ['q_proj', 'k_proj', 'v_proj', 'o_proj', 'gate_proj', 'up_proj', 'down_proj']
+2025-12-23 04:54:49,849 - training.utils - INFO - Trainable parameters:
+trainable params: 18,464,768 || all params: 1,562,179,072 || trainable%: 1.1820
+2025-12-23 04:54:49,854 - training.utils - INFO - Loading and formatting dataset...
+2025-12-23 04:54:49,854 - training.utils - INFO - Loading dataset from: training/data/processed/sft_training_dataset_3000.jsonl
+2025-12-23 04:54:49,904 - training.utils - INFO - Loaded 3000 examples
+2025-12-23 04:54:49,904 - training.utils - INFO - Formatting examples...
+2025-12-23 04:54:49,992 - training.utils - INFO - Formatted 1000/3000 examples...
+2025-12-23 04:54:50,067 - training.utils - INFO - Formatted 2000/3000 examples...
+2025-12-23 04:54:50,143 - training.utils - INFO - Formatted 3000/3000 examples...
+2025-12-23 04:54:50,249 - training.utils - INFO - Dataset split: 2700 train, 300 validation
+2025-12-23 04:54:50,254 - training.utils - INFO - Dataset ready: Train=2700, Val=300
+2025-12-23 04:54:50,255 - training.utils - INFO - Effective batch size: 32
+2025-12-23 04:54:50,276 - training.utils - INFO - Tokenizing datasets...
+Map: 100%|██████████| 2700/2700 [00:02<00:00, 1027.99 examples/s]
+Map: 100%|██████████| 300/300 [00:00<00:00, 1136.60 examples/s]
+2025-12-23 04:54:53,283 - training.utils - INFO - Initializing SFTTrainer...
+Truncating train dataset: 100%|██████████| 2700/2700 [00:00<00:00, 43066.11 examples/s]
+Truncating eval dataset: 100%|██████████| 300/300 [00:00<00:00, 113831.30 examples/s]
+2025-12-23 04:54:57,585 - training.utils - INFO - ========================================================================
+2025-12-23 04:54:57,586 - training.utils - INFO - Starting QLoRA + SFT training
+2025-12-23 04:54:57,586 - training.utils - INFO - Model: Qwen/Qwen2.5-1.5B-Instruct
+2025-12-23 04:54:57,587 - training.utils - INFO - Output dir: models/qlora_sft_qwen25_v1
+2025-12-23 04:54:57,587 - training.utils - INFO - Batch: 4 x 8 = 32
+2025-12-23 04:54:57,587 - training.utils - INFO - ========================================================================
+
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None, 'pad_token_id': 151643}.
+
+  0%|          | 0/255 [00:00<?, ?it/s]
+/usr/local/lib/python3.11/dist-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+
+/usr/local/lib/python3.11/dist-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+{'loss': 1.2719, 'grad_norm': 0.470703125, 'learning_rate': 0.0001999919114627769, 'entropy': 1.1468282759189605, 'num_tokens': 326134.0, 'mean_token_accuracy': 0.7262134455144406, 'epoch': 0.12}
+
+{'loss': 0.635, 'grad_norm': 0.26953125, 'learning_rate': 0.0001990228692687429, 'entropy': 0.770171707123518, 'num_tokens': 652453.0, 'mean_token_accuracy': 0.8462333455681801, 'epoch': 0.24}
+
+  9%|▉         | 24/255 [02:56<28:06,  7.30s/it]
+
+# ========================================================================
+# Training Configuration Summary
+# ========================================================================
+# Model: Qwen/Qwen2.5-1.5B-Instruct
+# Dataset: 3000 examples (2700 train, 300 validation)
+# LoRA: r=16, alpha=32, dropout=0.05
+# Batch size: 4 x 8 = 32 (effective)
+# Learning rate: 2e-4
+# Epochs: 3
+# Max sequence length: 2048
+# Trainable parameters: 18,464,768 (1.18% of total)
+# GPU: NVIDIA GeForce RTX 4090 (25.4 GB)
+# Precision: bf16
+# ========================================================================
+# Training Status: IN PROGRESS
+# Initial loss: 1.2719
+# Loss after 24 steps: 0.635 (50% reduction)
+# Token accuracy: 0.726 → 0.846 (improving)
+# ========================================================================
+

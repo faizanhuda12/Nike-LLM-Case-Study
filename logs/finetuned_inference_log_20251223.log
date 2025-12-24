@@ -1,0 +1,148 @@
+# ========================================================================
+# Fine-Tuned Model Inference Run - Complete Log
+# Date: December 23, 2025
+# Model: Qwen/Qwen2.5-1.5B-Instruct + QLoRA Adapters
+# Status: COMPLETED SUCCESSFULLY
+# ========================================================================
+
+# Command executed:
+PYTHONUNBUFFERED=1 python inference_finetuned.py \
+    --adapter-path models/qlora_sft_qwen25_v1 \
+    --dataset baseline_eval/data/baseline_eval_dataset_300.jsonl \
+    --base-model-name Qwen/Qwen2.5-1.5B-Instruct \
+    --output-dir inference_results \
+    --cache-dir /workspace/hf_cache \
+    --max-examples 300 \
+    --use-4bit \
+    --use-kv-cache \
+    --max-new-tokens 512 \
+    --temperature 0.0 \
+    --max-length 2048 \
+    --model-version "sft_qwen25_v1" \
+    2>&1 | tee inference_log.txt
+
+# ========================================================================
+# INFERENCE LOG OUTPUT
+# ========================================================================
+
+Loading base model: Qwen/Qwen2.5-1.5B-Instruct
+
+Loading base model in 4-bit...
+
+`torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading LoRA adapters from: models/qlora_sft_qwen25_v1
+
+Model loaded successfully!
+
+Max length: 2048 (tokenizer: 2048, model: 2048)
+
+Loaded 300 examples for evaluation
+
+Eval set hash: 0e0427dcac8e877d
+
+Temperature: 0.0 (deterministic)
+
+Max length: 2048
+
+Starting inference...
+
+The following generation flags are not valid and may be ignored: ['top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+Progress: 10/300 examples processed
+Progress: 20/300 examples processed
+Progress: 30/300 examples processed
+Progress: 40/300 examples processed
+Progress: 50/300 examples processed
+Progress: 60/300 examples processed
+Progress: 70/300 examples processed
+Progress: 80/300 examples processed
+Progress: 90/300 examples processed
+Progress: 100/300 examples processed
+Progress: 110/300 examples processed
+Progress: 120/300 examples processed
+Progress: 130/300 examples processed
+Progress: 140/300 examples processed
+Progress: 150/300 examples processed
+Progress: 160/300 examples processed
+Progress: 170/300 examples processed
+Progress: 180/300 examples processed
+Progress: 190/300 examples processed
+Progress: 200/300 examples processed
+Progress: 210/300 examples processed
+Progress: 220/300 examples processed
+Progress: 230/300 examples processed
+Progress: 240/300 examples processed
+Progress: 250/300 examples processed
+Progress: 260/300 examples processed
+Progress: 270/300 examples processed
+Progress: 280/300 examples processed
+Progress: 290/300 examples processed
+Progress: 300/300 examples processed
+
+Metrics saved to: inference_results/sft_qwen25_v1_metrics.json
+Detailed results saved to: inference_results/sft_qwen25_v1_detailed_results.jsonl
+
+======================================================================
+INFERENCE RESULTS SUMMARY
+======================================================================
+
+======================================================================
+BASELINE EVALUATION SUMMARY
+======================================================================
+
+Baseline Version: sft_qwen25_v1
+Total Examples: 300
+Eval Set Hash: 0e0427dcac8e877d
+
+Decision Accuracy: 69.82%
+  Correct: 192/275
+
+Policy Compliance:
+  Compliant: 269
+  Violations: 6
+  Ambiguous: 25
+
+JSON Validity: 91.67%
+  Valid: 275, Invalid: 25
+
+Operational Metrics:
+  Avg Latency: 5634.77 ms
+  P95 Latency: 6674.21 ms
+  Avg Input Tokens: 1004.2
+  Avg Output Tokens: 71.9
+  Total Tokens: 322822
+
+======================================================================
+
+======================================================================
+Compare with baseline: baseline_eval/results/baseline_metrics.json
+======================================================================
+
+# ========================================================================
+# FINE-TUNED MODEL INFERENCE SUMMARY
+# ========================================================================
+# Model: Qwen/Qwen2.5-1.5B-Instruct + QLoRA Adapters (sft_qwen25_v1)
+# Evaluation Date: December 23, 2025
+# Dataset: 300 examples (same as baseline)
+# Eval Set Hash: 0e0427dcac8e877d (matches baseline - same dataset)
+# 
+# Key Performance Indicators:
+# - Decision Accuracy: 69.82% (192/275 correct) - UP from 36.24%
+# - Policy Compliance: 89.7% (269/300 compliant)
+# - Policy Violations: 6 (2.0% violation rate) - DOWN from 28
+# - JSON Validity: 91.67% (275/300 valid) - DOWN from 99.33%
+# - Average Latency: 5.63 seconds per example - DOWN from 6.22s
+# - P95 Latency: 6.67 seconds - DOWN from 6.79s
+# 
+# Improvements:
+# - Decision Accuracy: +33.58 percentage points (93% relative improvement)
+# - Policy Violations: -22 violations (79% reduction)
+# - Latency: -9.4% faster
+# - Output Efficiency: 71.9 tokens vs 256 tokens (72% reduction)
+# 
+# Trade-offs:
+# - JSON Validity decreased from 99.33% to 91.67% (needs investigation)
+# ========================================================================
+
+

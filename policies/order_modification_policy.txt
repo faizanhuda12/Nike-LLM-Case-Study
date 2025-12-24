@@ -1,0 +1,305 @@
+ORDER MODIFICATION POLICY
+Effective Date: January 1, 2024
+Policy Number: CS-POL-007
+Version: 1.3
+
+================================================================================
+1. POLICY OVERVIEW
+================================================================================
+
+This policy governs order modifications including cancellations, address 
+changes, size/color changes, and item substitutions. It defines when 
+modifications are possible and the procedures for processing them. All customer 
+service representatives must understand these guidelines to properly handle 
+order modification requests.
+
+================================================================================
+2. ORDER MODIFICATION WINDOWS
+================================================================================
+
+2.1 Modification Eligibility by Order Stage
+    Order modifications are possible only during specific stages of order
+    fulfillment:
+    
+    a) Order Placed (Not Yet Processed)
+       - Cancellation: Available
+       - Address Change: Available
+       - Size/Color Change: Available
+       - Item Addition: Available (if inventory allows)
+       - Item Removal: Available
+    
+    b) Order Processing (Picked, Not Yet Shipped)
+       - Cancellation: Limited availability (may require escalation)
+       - Address Change: Available (with potential delay)
+       - Size/Color Change: Limited (requires cancellation and reorder)
+       - Item Addition: Not available
+       - Item Removal: Limited availability
+    
+    c) Order Shipped (In Transit)
+       - Cancellation: Not available (order in transit)
+       - Address Change: Limited (contact carrier, not guaranteed)
+       - Size/Color Change: Not available (process return after delivery)
+       - Item Addition: Not available
+       - Item Removal: Not available
+    
+    d) Order Delivered
+       - All modifications: Not available (use return/exchange process)
+
+================================================================================
+3. ORDER CANCELLATIONS
+================================================================================
+
+3.1 Cancellation Eligibility
+    Orders can be cancelled if:
+    - Order has not yet shipped
+    - Cancellation requested within 24 hours of order placement (guaranteed)
+    - Order is in "placed" or "processing" stage
+    
+    Orders CANNOT be cancelled if:
+    - Order has shipped (customer must wait for delivery and return)
+    - Order is a preorder with special terms
+    - Order includes custom or personalized items
+    - Order is a gift card purchase (non-refundable)
+
+3.2 Cancellation Process
+    When customer requests cancellation:
+    - Verify order status immediately
+    - If eligible: Process cancellation immediately
+    - If order already shipped: Explain cancellation not possible, offer return
+      process instead
+    - If order processing: Attempt cancellation (may not be guaranteed if
+      fulfillment in progress)
+    - Provide cancellation confirmation
+
+3.3 Cancellation Refund
+    - Full refund to original payment method
+    - Refund processes within 1 business day
+    - Refund appears in 5-10 business days
+    - Authorization holds release within 1-5 business days
+
+3.4 Partial Cancellations
+    For multi-item orders:
+    - Individual items can be cancelled if order not yet shipped
+    - Partial refund issued for cancelled items
+    - Remaining items continue to fulfillment
+    - Shipping costs may be recalculated
+
+================================================================================
+4. ADDRESS CHANGES
+================================================================================
+
+4.1 Address Change Eligibility
+    Shipping address can be changed if:
+    - Order has not yet shipped
+    - New address is valid and deliverable
+    - New address is in same region/country (international changes may
+      require cancellation and reorder)
+    
+    Address changes are NOT possible if:
+    - Order has shipped (contact carrier for redirect, not guaranteed)
+    - Order is processing and fulfillment imminent
+    - New address is invalid or undeliverable
+
+4.2 Address Change Process
+    When customer requests address change:
+    - Verify order status
+    - If eligible: Update address immediately
+    - Confirm new address is complete and accurate
+    - Notify customer of change and any potential delay
+    - If order already shipped: Provide carrier contact information for
+      redirect attempt (not guaranteed)
+
+4.3 Address Change Fees
+    - No fee for address changes before shipment
+    - If carrier redirect required after shipment: Customer responsible for
+      carrier redirect fees (if applicable)
+    - International address changes may require order cancellation and
+      reorder with additional shipping costs
+
+4.4 Billing Address Changes
+    - Billing address changes do not affect shipping
+    - Billing address must match payment method for security
+    - Billing address changes may require payment verification
+
+================================================================================
+5. SIZE AND COLOR CHANGES
+================================================================================
+
+5.1 Size/Color Change Eligibility
+    Size or color changes are possible if:
+    - Order has not yet shipped
+    - Desired size/color is available in inventory
+    - Change requested before order enters fulfillment
+    
+    Size/color changes are NOT possible if:
+    - Order has shipped (use exchange process after delivery)
+    - Order is processing (may require cancellation and reorder)
+    - Desired size/color is out of stock
+
+5.2 Size/Color Change Process
+    When customer requests size/color change:
+    - Verify order status and inventory availability
+    - If eligible: Update order with new size/color
+    - Confirm change with customer
+    - If not eligible: Explain options (cancel and reorder, or exchange
+      after delivery)
+    - Price differences handled per Section 5.3
+
+5.3 Price Differences
+    - If new size/color is higher price: Customer pays difference
+    - If new size/color is lower price: Refund difference after order
+      processes
+    - If change requires cancellation and reorder: Process as new order
+      with current pricing
+
+================================================================================
+6. ITEM ADDITIONS AND REMOVALS
+================================================================================
+
+6.1 Adding Items to Order
+    Items can be added to order if:
+    - Order has not yet shipped
+    - Items are in stock
+    - Adding items does not change shipping method requirements
+    
+    Items CANNOT be added if:
+    - Order has shipped
+    - Order is processing (may cause delay)
+    - Items are out of stock
+
+6.2 Removing Items from Order
+    Items can be removed from order if:
+    - Order has not yet shipped
+    - Removal does not make order ineligible for free shipping (if applicable)
+    
+    Items CANNOT be removed if:
+    - Order has shipped
+    - Order is processing (may require cancellation and reorder)
+
+6.3 Multi-Item Order Modifications
+    For orders with multiple items:
+    - Individual items can be modified if order not shipped
+    - Shipping costs recalculated if order total changes significantly
+    - Free shipping eligibility reassessed if order total drops below
+      threshold
+
+================================================================================
+7. PREORDER MODIFICATIONS
+================================================================================
+
+7.1 Preorder Cancellations
+    - Preorders can be cancelled at any time before shipment
+    - Full refund provided upon cancellation
+    - No cancellation fees
+
+7.2 Preorder Modifications
+    - Size/color changes: Available if change requested before fulfillment
+      begins (check estimated fulfillment date)
+    - Address changes: Available before shipment
+    - Item additions: Available if preorder items still available
+
+7.3 Preorder Delay Impact
+    - If preorder delayed, modifications remain available until new
+      estimated ship date
+    - Customers notified of delays and modification availability
+
+================================================================================
+8. MODIFICATION FEES AND COSTS
+================================================================================
+
+8.1 Standard Modifications
+    No fees for modifications made:
+    - Within 24 hours of order placement
+    - Before order enters fulfillment
+    - Standard address, size, color changes
+
+8.2 Modification Costs
+    Fees or costs may apply for:
+    - Address changes requiring carrier redirect after shipment (carrier
+      fees, if applicable)
+    - Modifications causing order delay requiring expedited shipping
+    - International address changes requiring cancellation and reorder
+    - Complex modifications requiring manual processing
+
+8.3 Our Error Modifications
+    If modification needed due to our error:
+    - All fees waived
+    - Expedited processing at no cost
+    - Compensation for inconvenience (discount code, etc.)
+
+================================================================================
+9. MODIFICATION TIMELINES
+================================================================================
+
+9.1 Processing Time
+    - Modifications before fulfillment: Processed within 2-4 hours
+    - Modifications during processing: May take 1 business day
+    - Complex modifications: 1-2 business days
+
+9.2 Impact on Delivery
+    - Modifications before fulfillment: Minimal to no delay
+    - Modifications during processing: May cause 1-2 business day delay
+    - Address changes: May cause delay depending on timing
+
+================================================================================
+10. MODIFICATION LIMITATIONS
+================================================================================
+
+10.1 One-Time Modifications
+    - Multiple modifications to same order may cause delays
+    - Recommend consolidating changes when possible
+    - Excessive modifications may require supervisor approval
+
+10.2 Restricted Modifications
+    Some orders have restricted modification options:
+    - Custom/personalized items: No modifications after personalization
+    - Limited edition items: Size/color changes subject to availability
+    - Bundle deals: Modifications may affect bundle pricing
+    - Gift orders: Modifications may affect gift messaging
+
+================================================================================
+11. ESCALATION CRITERIA
+================================================================================
+
+Escalate order modification requests to supervisor for:
+- Modifications requested after order shipped (carrier redirect attempts)
+- High-value orders ($500+) requiring modification
+- Complex multi-item order modifications
+- Modifications requiring fee waivers or exceptions
+- International address changes
+- Modifications to orders with special terms or restrictions
+- Customer disputes regarding modification eligibility
+- System errors preventing standard modification processing
+
+================================================================================
+12. COMMUNICATION GUIDELINES
+================================================================================
+
+When handling modification requests:
+- Verify order status immediately
+- Clearly explain what modifications are possible
+- Set realistic expectations for processing time and delivery impact
+- Provide alternatives if modification not possible (return, exchange, etc.)
+- Confirm all changes clearly with customer
+- Provide modification confirmation
+
+================================================================================
+13. DOCUMENTATION REQUIREMENTS
+================================================================================
+
+All order modifications must be documented with:
+- Original order number
+- Modification type and details
+- Modification request date and time
+- Order status at time of modification
+- Processing confirmation
+- Impact on delivery timeline (if any)
+- Customer confirmation of changes
+
+================================================================================
+END OF POLICY
+================================================================================
+
+
+
+
